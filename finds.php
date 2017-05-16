@@ -1,4 +1,5 @@
 <?php
+//connect to the server 
 $servername = "localhost";
 $username = "root";
 $password = "HiMommy12";
@@ -44,12 +45,10 @@ if ($result->num_rows >0) {
 										                        }
 
 
-										echo print_r($full);
-									        $nameArray=array();
-										$promArray=array();
-										$termArray=array();
-										$resistArray=array();
-										$cassNumTable=array();
+										
+									        $nameArray=array();							       $promArray=array();							      $termArray=array();							     $resistArray=array();							    $cassNumTable=array();
+										$nameProm=array();
+										$nameTerm=array();
 										$geneArray=array();																							   $length=count($full);
 										$backboneArray=array();
 										echo "<br>".$length."<br>"."bird"."<br>";																		
@@ -64,65 +63,63 @@ $result= $conn->query($sql);
 if ($result->num_rows >0) {
 										    // output data of each row
 										            while($row = $result->fetch_assoc()) {
-
+											       //cut off the overhangs for the genes and  get the names of the		      // gene for the fasta file
                 $nameArray[]=$row['GeneName'];
-		                $curve= strlen($row['ONS'])-50;
-				                $nameforGene=substr($row['ONS'] ,50,$curve-50);
-
+		$curve= strlen($row['ONS'])-50;
+		$nameforGene=substr($row['ONS'] ,50,$curve);
                 $geneArray[]=$nameforGene;
-		                $cassNumTable[]="'".$row['GeneID']."'";
-
-                $x=$x+1;
-		                    }
-				                        } else {
-							                        echo "0t results";
-										                        }
-													
+		$cassNumTable[]="'".$row['GeneID']."'";
+		$x=$x+1;
+		}
+				                        }
+	else {
+											echo "0 results";
+										       }
+										//get the promoter sequences			
 $sql="SELECT * FROM Promoter Where PromoterID=".$full[$i]['PromoterID'];
-
 $result= $conn->query($sql);
 
 if ($result->num_rows >0) {
     // output data of each row
                 while($row = $result->fetch_assoc()) {
 		                       $promArray[]=$row;
-
-                                    }
+				       $nameProm[]=$row['CommonName'];
+			
+				       
+                 }
 				                                                            } else {
-											    echo "0g results";
-																					                                                                                                            }
-																														
+											    echo "0 results";
+											    }
+
+//select the Resitance Sequences for the plasmid 
 $sql="SELECT Sequence FROM Resist Where ResistID =(Select ResistanceID From NewPlasmidID Where PlasmidID =  ".$full[$i]['PlasmidID'].")";
 $result= $conn->query($sql);
-
+echo "<br>".$full[$i]['PlasmidID']."<br>";
 if ($result->num_rows >0) {
     // output data of each row
                   while($row = $result->fetch_assoc()) {
-		  echo "Bees";
-		                                                       $resistArray[]=$row;
+	
+		        $resistArray[]=$row['Sequence'];
+			}
+				                                                                                                                                    }										  else {													                                                                    echo "0 results";                                                                                         
+																				    }
 
-                                    }
-				                                                                                                                                    } else {
-																				                                                                                                                                                                                                               
-																																													                                                                                                        echo "0Zach results";                                                                                         
-																																																										                                                                          }
-
+//get Backbone Sequences from the plasmid and append them to the end of the final terminator sequence in each plasmid 
 $sql="SELECT Sequence FROM backbone Where backboneid in(Select BackboneID From NewPlasmidID Where PlasmidID =  ".$full[$i]['PlasmidID'].")";
 $result= $conn->query($sql);
 
 if ($result->num_rows >0) {
     // output data of each row
                       while($row = $result->fetch_assoc()) {
-		                                                            $backboneArray[]=$row;
+		      $backboneArray[]=$row;
 
-                                    }
-
-                                                                                                                                                                    } else {
-																				                                                                                                                                                                                                               
-																																													                                                                            echo "n0T results";
-
+              	   }
+										}
+										else {
+												     echo "0 results";
 }
 
+//Select the Terminators
 $sql="SELECT * FROM Terminator Where TerminatorID=".$full[$i]['TerminatorID'];
 $result= $conn->query($sql);
 
@@ -130,64 +127,59 @@ $result= $conn->query($sql);
 if ($result->num_rows >0) {
     // output data of each row
        	      while($row = $result->fetch_assoc()) {
-	      		   			   if($i==$length-1){
-						   $termArray[]=$termArray[0].$backboneArray[$j]['Sequence'];
-						   $j=$j+1;
-						   }
-						   else if($full[$i+1]['OOP']==1){
-						    $termArray[]=$row.$backboneArray[$j]['Sequence'];
-						    $j=$j+1;
+	      if($i==$length-1){
+	      	   $termArray[]=$termArray[0].$backboneArray[$j]['Sequence'];
+		   $j=$j+1;
+	      }
+	      //if the next postion is a new plasmid add a backbone sequence
+	      else if($full[$i+1]['OOP']==1){
+	          $termArray[]=$row['Sequence'].$backboneArray[$j]['Sequence'];
+		  $j=$j+1;
 						    
-						   }
-						   else{
-	                                             $termArray[]=$row;
-						     }
-						  //   if($b==2){
-						    // $termArray[$i]['Sequence']= $termArray[$i]['Sequence'].$resistArray[$i]['Sequence']
-						     //}
-						  
+	       }
+	      else{
+	          $termArray[]=$row['Sequence'];
+	       }
+	       	  $nameTerm[]=$row['CommonName'];
 
                                     }
-				                                                                                                } else {
-																                                                                                                                                                                            echo "0v results";																									                                                                                }
+				                                               }
+									       else {                                                                                                                      echo "0 results";																							                                                                                }
 
-																																																																								                            
+										}
 
-
-
-
-
-
-}
+//need two indexs (x,b) one for the geneId's and one for the resitant id's
 $x=0;
 $b=0;
-echo print_r($backboneArray);
+$len=strlen($geneArray[0]);
+$geneArray[0]=substr($geneArray[0],0,len-50);
 foreach($geneArray as $value){
-      // $rest=substr($termArray[$x],50,strlen($termArray[$x]));
-            // $tired=substr($promArray[$x],0,strlen($promArray[$x])-50);
-	            
+
+	        echo $nameProm[$x]."  ".$nameTerm[$x]."  ".$resistArray[$b]."<br>";    
                 echo ">".$nameArray[$x]."<br>";
-                    echo $promArray[$x]['Sequence'].$geneArray[$x].$termArray[$x]['Sequence']."<br>";
+                    echo $promArray[$x]['Sequence'].$geneArray[$x]."<br>"."hello"."<br>".$termArray[$x]."<br>";
 		    if($full[$x]['OOP']==2 && $full[$x+1]['OOP']==3){
                      $finalString=$finalString.">".$nameArray[$x]."\n";
-		     $finalString=$finalString.$promArray[$x]['Sequence'].$geneArray[$x].$termArray[$x]['Sequence'].resistArray[$b]['Sequence']."\n";
+		     $finalString=$finalString.$promArray[$x]['Sequence'].$geneArray[$x].$termArray[$x].$resistArray[$b]."\n";
 		    
 		     $b=$b+1;			  
 		    } else{
  	             $finalString=$finalString.">".$nameArray[$x]."\n";
-		     $finalString=$finalString.$promArray[$x]['Sequence'].$geneArray[$x].$termArray[$x]['Sequence']."\n";
+		     $finalString=$finalString.$promArray[$x]['Sequence'].$geneArray[$x].$termArray[$x]."\n";
 		     }
 			           $x=$x+1;
 			}
 
-echo $x;
+//make the fasta file
 $myfile = fopen("filers.fasta", "w") or die("Unable to open file!");
 fwrite($myfile, $finalString);
 
 fclose($myfile);
+//close the connection to phpmyadmin
 $conn->close();
+
 
 													
 ?>
-
+//download the file 
 <button type="button" onclick="location.href='dloadsTwo.php'">Download the Fasta File</button>
