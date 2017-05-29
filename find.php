@@ -1,9 +1,7 @@
-//Used to create a fasta file from GeneClusters
-
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "***";
+$password = "HiMommy12";
 $dbname = "GNPNDB";
 
 // Create connection
@@ -28,7 +26,7 @@ if ($result->num_rows >0) {
 
 		$nameArray[]=$row['GeneName'];
 		$curve= strlen($row['ONS']);
-		$nameforGene=substr($row['ONS'] ,50,curve-50);
+		$nameforGene=substr($row['ONS'] ,50,$curve-50);
 	
 		$geneArray[]=$nameforGene;
 		$cassNumTable[]="'".$row['GeneID']."'";
@@ -40,13 +38,15 @@ if ($result->num_rows >0) {
 			}
 $x=1;
 $cassNumTable=implode(",",$cassNumTable);
-echo print_r($cassNumTable);
-$cass="SELECT OOP FROM Cassette WHERE GeneID IN (".$cassNumTable.")";
+
+$cass="SELECT * FROM Cassette WHERE GeneID IN (".$cassNumTable.")";
 $orderTable=array();
+$special=array();
 $cassResults=$conn->query($cass);
 if($cassResults->num_rows >0){
 	while($rower=$cassResults->fetch_assoc()){	
 	$orderTable[]="'".$rower['OOP']."'";
+	$special[]=$rower['PlasmidID'];
 	}
 } else{
    echo "nO LUCK";
@@ -60,7 +60,7 @@ $x=0;
 $prom=array();
 $term=array();
 $x=0;
-echo print_r($orderTable);
+
 while($x<$tLength){
  $places = "SELECT Promoter FROM VTwoTwo WHERE GenePlace IN (".$orderTable[$x].")";
  
@@ -93,19 +93,17 @@ $resulters =$conn ->query($spaces);
 if ($resulters->num_rows > 0) {
     // output data of each row
                 while($rows= $resulters->fetch_assoc()) {
-		                            $term[]=$rows['Terminator'];
-
-						                                    }
+		    $term[]=$rows['Terminator'];						                                    }
 										    
 
 									}
 $x=$x+1;
 }
-echo print_r($prom);
+
 //$finalProm= implode(",",$prom);
 //$finalTerm= implode(",",$term);
 $x=0;
-echo $nam."Cluster"."<br>";
+
 $promArray=array();
 $termArray=array();
 $length=count($prom);
@@ -136,18 +134,16 @@ if($sequenceP->num_rows>0){
 		  
 		  $key=array_search($prom[$x],$filledPromoter);
 		  $promArray[]=$seqPlace[$key];
-		  echo "<br>".$promArray[$x]."<br>";
+		 
     //$promArray[]=$filledPromoter[$prom[$x]];
 			}else{
    
     $promArray[]=$finalP['Sequence'];
     $filledPromoter[]= $prom[$x];
-    echo "Fyre"."<br>".$finalP['Sequence']."<br>";
+    
 	
     $seqPlace[]=$finalP['Sequence'];
     }
-
- 
 }
 
                     } else {
@@ -181,12 +177,13 @@ $x=0;
 
 
 $finalString="";
+
 foreach($geneArray as $value){
       // $rest=substr($termArray[$x],50,strlen($termArray[$x]));
       // $tired=substr($promArray[$x],0,strlen($promArray[$x])-50);
        
        echo ">".$nameArray[$x]."<br>";
-       echo $promArray[$x].$geneArray[$x].$termArray[$x]."<br>";
+       echo $promArray[$x].$geneArray[$x].$termArray[$x]."<br>";        
        $finalString=$finalString.">".$nameArray[$x]."\n";
        $finalString=$finalString.$promArray[$x].$geneArray[$x].$termArray[$x]."\n";      
        $x=$x+1;
@@ -207,3 +204,5 @@ $conn->close();
 
 
 <button type="button" onclick="location.href='downloads.php'">Download the Fasta File</button>
+
+<button type="button" onclick="location.href='getGBfile.php'">Download the genbank File</button>

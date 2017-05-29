@@ -35,8 +35,8 @@ from StringIO import StringIO
 plasmid_list = sys.argv[1]
 version_num = sys.argv[2]
 
-parent_dir = "~/Google Drive/U01_assemblies_and_biomek/cluster_assemblies/{}"
-plasmid_dir = "~/Google Drive/U01_assemblies_and_biomek/plasmid_files/{}"
+parent_dir = "~/cluster_assemblies/{}"
+plasmid_dir = "~/{}"
 plasmid_combined_file = "1HxcYhlqhlpO1zGXplX7EWHkztH5tl-2Ppzh9y4Ep7Y8"
 plasmid_list_file = plasmid_dir.format(plasmid_list +".csv")
 

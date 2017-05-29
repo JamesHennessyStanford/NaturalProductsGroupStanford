@@ -1,8 +1,7 @@
-
-//Used to concate sequences of genes that were split apart due commerical ordering issues
 <?php
 $servername = "localhost";
 $username = "root";
+$password = "HiMommy12";
 $dbname = "GNPNDB";
 
 // Create connection
@@ -25,14 +24,14 @@ if ($result->num_rows >0) {
 }
 }
 
-for($n=4; $n>1;$n--){
-$sql="SELECT * FROM testy WHERE CDS LIKE '%".$n."'";
+for($n=7; $n>1;$n--){
+$sql="SELECT * FROM reggie WHERE CDS LIKE '%".$n."'";
 
 $ons=array();
 $cds=array();
 $result = $conn->query($sql);
 if ($result->num_rows >0) {
-   		      
+   		    
     // output data of each row
             while($row = $result->fetch_assoc()) {
 	    	       $id= $row['GeneID'];
@@ -40,9 +39,13 @@ if ($result->num_rows >0) {
 		       $key=array_search($id,$place);
 		       $length= strlen($full[$key]['ONS']);
 		       $keys=$key-1;
-		       echo $keys;
-		       echo $key;
-		       $full[$keys]['ONS']= $full[$keys]['ONS'].substr($full[$key]['ONS'],50,$length);
+		    
+		       if($n>2){
+		       $full[$keys]['ONS']= $full[$keys]['ONS'].substr($full[$key]['ONS'],49,$length-1);
+		       }
+		       else{
+		       $full[$keys]['ONS']= $full[$keys]['ONS'].substr($full[$key]['ONS'],50,$length-1);
+		}			      
 			 
 		       
 		       
@@ -62,17 +65,22 @@ foreach ($full as $fields) {
 fclose($fp);
 $place=array_column($full,'GeneID');
 $length= count($place);
-for($key=0;$key<$length;$key++){
-$sql = "UPDATE Gene SET ONS ='".$full[$key]['ONS']."' WHERE GeneID=".$place[$key];
-echo $key."<br>";
-$conn->query($sql);
-}
-for($l=4;$l>1;$l--){
+//for($key=0;$key<$length;$key++){
+//$sql = "UPDATE Gene SET ONS ='".$full[$key]['ONS']."' WHERE GeneID=".$place[$key];
 
-$sql="DELETE FROM Gene WHERE CDS LIKE '%".$l."'";
-echo "Best";
-$conn->query($sql);
-}
+//$conn->query($sql);
+//}
+//for($l=7;$l>1;$l--){
+
+//$sql="DELETE FROM Gene WHERE CDS LIKE '%".$l."'";
+//echo "Best";
+//$conn->query($sql);
+//$sql="UPDATE Gene SET GeneID=GeneID-($l-1) Where CDS LIKE '%".$l."'";
+//echo "Better";
+//$conn->query($sql);
+
+
+//}
 //for($cds in $value){
 
 
