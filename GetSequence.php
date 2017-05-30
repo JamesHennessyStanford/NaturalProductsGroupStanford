@@ -22,8 +22,8 @@ if ($result->num_rows > 0) {
     // output data of each row
             while($row = $result->fetch_assoc()) {
 	    //      while($v<8){
-	                           $best=  $row['CDS'];
-				   $finalnum=substr($best,-1);
+	                           $sequence=  $row['CDS'];
+				   $finalnum=substr($sequence,-1);
 				   if ($finalnum==$n){
 				                $x=$x+1;
 						              
