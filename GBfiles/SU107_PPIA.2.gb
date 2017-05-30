@@ -7,51 +7,51 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        83290..83822
+     Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             83823..87732
+     CDS             535..4444
                      /locus_tag="KJK91765.1_Beta-ketoacyl__OH_added_1"
-     Terminator      87733..88232
+     Terminator      4445..4944
                      /locus_tag="tTEF1"
-     Promoter        88233..88732
+     Promoter        4945..5444
                      /locus_tag="pADH2_bayanus"
-     CDS             88733..92642
+     CDS             5445..9354
                      /locus_tag="KJK91769.1_8-amino-7-oxon_OH_added"
-     Terminator      92643..93024
+     Terminator      9355..9736
                      /locus_tag="tPGI1"
-     Resistor        93025..94179
+     Resistor        9737..10891
                      /locus_tag="Ura3"
-     Promoter        94180..94679
+     Promoter        10892..11391
                      /locus_tag="pPCK1"
-     CDS             94680..95757
+     CDS             11392..12469
                      /locus_tag="KJK91767.1_PhyH_OH_added"
-     Terminator      95758..96157
+     Terminator      12470..12869
                      /locus_tag="tENO2"
-     Promoter        96158..96657
+     Promoter        12870..13369
                      /locus_tag="pMLS1"
-     CDS             96658..104989
+     CDS             13370..21701
                      /locus_tag="KJK91768.1_short-chain_de_OH_added"
-     Terminator      104990..105455
+     Terminator      21702..22167
                      /locus_tag="tADH2"
-     Promoter        105456..105955
+     Promoter        22168..22667
                      /locus_tag="pADH2_paradoxus"
-     CDS             105956..111535
+     CDS             22668..28247
                      /locus_tag="KJK91763.1_alkaline_serin_OH_added"
-     Terminator      111536..111728
+     Terminator      28248..28440
                      /locus_tag="tADH1"
-     Promoter        111729..112224
+     Promoter        28441..28936
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             112225..115026
+     CDS             28937..31738
                      /locus_tag="KJK91764.1_LysM_OH_added"
-     Terminator      115027..115301
+     Terminator      31739..32013
                      /locus_tag="tCYC1"
-     Promoter        115302..115801
+     Promoter        32014..32513
                      /locus_tag="plCL1"
-     CDS             115802..117584
+     CDS             32514..34296
                      /locus_tag="KJK91766.1_Drug_resistanc_OH_added"
-     Terminator      117585..118084
+     Terminator      34297..34796
                      /locus_tag="tTEF1"
-     Backbone        118085..124933
+     Backbone        34797..41645
                      /locus_tag="pRS425_Sma1"
 ORIGIN
         1 tatctaaaaa ttgccttatg atccgtctct ccggttacag cctgtgtaac tgattaatcc
