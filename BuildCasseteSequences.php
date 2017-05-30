@@ -2,7 +2,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "HiMommy12";
+$password = "*";
 $dbname = "GNPNDB";
 
 // Create connection
