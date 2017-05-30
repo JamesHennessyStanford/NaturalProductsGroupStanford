@@ -90,4 +90,4 @@ $length= count($place);
 
 ?>
 
-<button type="button" onclick="location.href='dload.php'">here</button>
+<button type="button" onclick="location.href='Download.php'">here</button>
