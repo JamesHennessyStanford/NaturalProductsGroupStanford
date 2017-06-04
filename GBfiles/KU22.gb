@@ -9,37 +9,37 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..1318
+     CDS             502..1268
                      /locus_tag="KU22_DDJM14_6568_Cyclase_OH_added"
-     Terminator      1319..1784
+     Terminator      1269..1684
                      /locus_tag="tADH2"
-     Promoter        1785..2284
+     Promoter        1685..2184
                      /locus_tag="pADH2_bayanus"
-     CDS             2285..4031
+     CDS             2185..3881
                      /locus_tag="KU22_DDJM14_6570_P450_OH_added"
-     Terminator      4032..4413
+     Terminator      3882..4213
                      /locus_tag="tPGI1"
-     Resistor        4414..5568
+     Resistor        4214..5368
                      /locus_tag="Ura3"
-     Promoter        5569..6068
+     Promoter        5369..5868
                      /locus_tag="pPCK1"
-     CDS             6069..7482
+     CDS             5869..7232
                      /locus_tag="KU22_DDJM14_6567_OMT_OH_added"
-     Terminator      7483..7882
+     Terminator      7233..7582
                      /locus_tag="tENO2"
-     Promoter        7883..8382
+     Promoter        7583..8082
                      /locus_tag="pMLS1"
-     CDS             8383..8875
+     CDS             8083..8525
                      /locus_tag="KU22_DDJM14_6565_MT_OH_added"
-     Terminator      8876..9341
+     Terminator      8526..8941
                      /locus_tag="tADH2"
-     Promoter        9342..9841
+     Promoter        8942..9441
                      /locus_tag="pADH2_paradoxus"
-     CDS             9842..10766
+     CDS             9442..10316
                      /locus_tag="KU22_DDJM14_6564_MT_OH_added"
-     Terminator      10767..11266
+     Terminator      10317..10766
                      /locus_tag="tTEF1"
-     Backbone        11267..15156
+     Backbone        10767..14656
                      /locus_tag="pCHINT2A"
 ORIGIN
         1 tatctaaaaa ttgccttatg atccgtctct ccggttacag cctgtgtaac tgattaatcc
@@ -299,37 +299,37 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..2280
+     CDS             501..2230
                      /locus_tag="KU22_DDJM14_6562_P450_OH_added"
-     Terminator      2281..2746
+     Terminator      2231..2646
                      /locus_tag="tADH2"
-     Promoter        2747..3246
+     Promoter        2647..3146
                      /locus_tag="pADH2_bayanus"
-     CDS             3247..4120
+     CDS             3147..3970
                      /locus_tag="KU22_DDJM14_6563_MT_OH_added"
-     Terminator      4121..4502
+     Terminator      3971..4302
                      /locus_tag="tPGI1"
-     Resistor        4503..5607
+     Resistor        4303..5407
                      /locus_tag="His3"
-     Promoter        5608..6107
+     Promoter        5408..5907
                      /locus_tag="pPCK1"
-     CDS             6108..6936
+     CDS             5908..6686
                      /locus_tag="KU22_DDJM14_6561_GST_OH_added"
-     Terminator      6937..7336
+     Terminator      6687..7036
                      /locus_tag="tENO2"
-     Promoter        7337..7836
+     Promoter        7037..7536
                      /locus_tag="pMLS1"
-     CDS             7837..8524
+     CDS             7537..8174
                      /locus_tag="KU22_DDJM14_6569_V-type_ATPase_OH_added"
-     Terminator      8525..8990
+     Terminator      8175..8590
                      /locus_tag="tADH2"
-     Promoter        8991..9490
+     Promoter        8591..9090
                      /locus_tag="pADH2_paradoxus"
-     CDS             9491..12665
+     CDS             9091..12215
                      /locus_tag="KU22_DDJM14_6566_TF_OH_added"
-     Terminator      12666..13165
+     Terminator      12216..12665
                      /locus_tag="tTEF1"
-     Backbone        13166..17054
+     Backbone        12666..16554
                      /locus_tag="pCHINT3A"
 ORIGIN
         1 tatctaaaaa ttgccttatg atccgtctct ccggttacag cctgtgtaac tgattaatcc

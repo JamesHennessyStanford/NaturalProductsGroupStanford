@@ -9,37 +9,37 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..1489
+     CDS             502..1439
                      /locus_tag="KU18_SH9_7287_Cyclase_OH_added"
-     Terminator      1490..1955
+     Terminator      1440..1855
                      /locus_tag="tADH2"
-     Promoter        1956..2455
+     Promoter        1856..2355
                      /locus_tag="pADH2_bayanus"
-     CDS             2456..3929
+     CDS             2356..3779
                      /locus_tag="KU18_SH9_7288_P450_OH_added"
-     Terminator      3930..4311
+     Terminator      3780..4111
                      /locus_tag="tPGI1"
-     Resistor        4312..5466
+     Resistor        4112..5266
                      /locus_tag="Ura3"
-     Promoter        5467..5966
+     Promoter        5267..5766
                      /locus_tag="pPCK1"
-     CDS             5967..7491
+     CDS             5767..7241
                      /locus_tag="KU18_SH9_7289_P450_OH_added"
-     Terminator      7492..7891
+     Terminator      7242..7591
                      /locus_tag="tENO2"
-     Promoter        7892..8391
+     Promoter        7592..8091
                      /locus_tag="pMLS1"
-     CDS             8392..9931
+     CDS             8092..9581
                      /locus_tag="KU18_SH9_7286_P450_OH_added"
-     Terminator      9932..10397
+     Terminator      9582..9997
                      /locus_tag="tADH2"
-     Promoter        10398..10897
+     Promoter        9998..10497
                      /locus_tag="pADH2_paradoxus"
-     CDS             10898..11717
+     CDS             10498..11267
                      /locus_tag="KU18_SH9_7285_DH_OH_added"
-     Terminator      11718..12217
+     Terminator      11268..11717
                      /locus_tag="tTEF1"
-     Backbone        12218..16107
+     Backbone        11718..15607
                      /locus_tag="pCHINT2A"
 ORIGIN
         1 tatctaaaaa ttgccttatg atccgtctct ccggttacag cctgtgtaac tgattaatcc
