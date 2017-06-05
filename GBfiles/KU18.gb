@@ -7,35 +7,35 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1389
+     CDS             502..1389
                      /locus_tag="KU18_SH9_7287_Cyclase_OH_added"
      Terminator      1390..1855
                      /locus_tag="tADH2"
-     Promoter        1856..2305
+     Promoter        1856..2355
                      /locus_tag="pADH2_bayanus"
-     CDS             2306..3729
+     CDS             2356..3729
                      /locus_tag="KU18_SH9_7288_P450_OH_added"
      Terminator      3730..4111
                      /locus_tag="tPGI1"
      Resistor        4112..5266
                      /locus_tag="Ura3"
-     Promoter        5267..5716
+     Promoter        5267..5766
                      /locus_tag="pPCK1"
-     CDS             5717..7191
+     CDS             5767..7191
                      /locus_tag="KU18_SH9_7289_P450_OH_added"
      Terminator      7192..7591
                      /locus_tag="tENO2"
-     Promoter        7592..8041
+     Promoter        7592..8091
                      /locus_tag="pMLS1"
-     CDS             8042..9531
+     CDS             8092..9531
                      /locus_tag="KU18_SH9_7286_P450_OH_added"
      Terminator      9532..9997
                      /locus_tag="tADH2"
-     Promoter        9998..10447
+     Promoter        9998..10497
                      /locus_tag="pADH2_paradoxus"
-     CDS             10448..11217
+     CDS             10498..11217
                      /locus_tag="KU18_SH9_7285_DH_OH_added"
      Terminator      11218..11717
                      /locus_tag="tTEF1"

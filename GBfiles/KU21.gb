@@ -7,47 +7,47 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1320
+     CDS             502..1320
                      /locus_tag="KU21_DS19_7112_Cyclase_OH_added"
      Terminator      1321..1786
                      /locus_tag="tADH2"
-     Promoter        1787..2236
+     Promoter        1787..2286
                      /locus_tag="pADH2_bayanus"
-     CDS             2237..3870
+     CDS             2287..3870
                      /locus_tag="KU21_DS19_7113_P450_OH_added"
      Terminator      3871..4252
                      /locus_tag="tPGI1"
      Resistor        4253..5407
                      /locus_tag="Ura3"
-     Promoter        5408..5857
+     Promoter        5408..5907
                      /locus_tag="pPCK1"
-     CDS             5858..7431
+     CDS             5908..7431
                      /locus_tag="KU21_DS19_7108_P450_OH_added"
      Terminator      7432..7831
                      /locus_tag="tENO2"
-     Promoter        7832..8281
+     Promoter        7832..8331
                      /locus_tag="pMLS1"
-     CDS             8282..9108
+     CDS             8332..9108
                      /locus_tag="KU21_DS19_7109_MT_OH_added"
      Terminator      9109..9574
                      /locus_tag="tADH2"
-     Promoter        9575..10024
+     Promoter        9575..10074
                      /locus_tag="pADH2_paradoxus"
-     CDS             10025..12015
+     CDS             10075..12015
                      /locus_tag="KU21_DS19_7111_GMC_oxido_OH_added"
      Terminator      12016..12208
                      /locus_tag="tADH1"
-     Promoter        12209..12654
+     Promoter        12209..12704
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             12655..13721
+     CDS             12705..13721
                      /locus_tag="KU21_DS19_7114_AK_reductase_OH_added"
      Terminator      13722..13996
                      /locus_tag="tCYC1"
-     Promoter        13997..14446
+     Promoter        13997..14496
                      /locus_tag="plCL1"
-     CDS             14447..15591
+     CDS             14497..15591
                      /locus_tag="KU21_DS19_7110_Hyp_OH_added"
      Terminator      15592..16091
                      /locus_tag="tTEF1"

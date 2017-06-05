@@ -7,41 +7,41 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1392
+     CDS             502..1392
                      /locus_tag="KU_20_SH18_11663_Cyclase_OH_added"
      Terminator      1393..1858
                      /locus_tag="tADH2"
-     Promoter        1859..2308
+     Promoter        1859..2358
                      /locus_tag="pADH2_bayanus"
-     CDS             2309..3936
+     CDS             2359..3936
                      /locus_tag="KU_20_SH18_11664_P450_OH_added"
      Terminator      3937..4318
                      /locus_tag="tPGI1"
      Resistor        4319..5473
                      /locus_tag="Ura3"
-     Promoter        5474..5923
+     Promoter        5474..5973
                      /locus_tag="pPCK1"
-     CDS             5924..7551
+     CDS             5974..7551
                      /locus_tag="KU_20_SH18_11665_P450_OH_added"
      Terminator      7552..7951
                      /locus_tag="tENO2"
-     Promoter        7952..8401
+     Promoter        7952..8451
                      /locus_tag="pMLS1"
-     CDS             8402..9963
+     CDS             8452..9963
                      /locus_tag="KU_20_SH18_11662_P450_OH_added"
      Terminator      9964..10429
                      /locus_tag="tADH2"
-     Promoter        10430..10879
+     Promoter        10430..10929
                      /locus_tag="pADH2_paradoxus"
-     CDS             10880..11925
+     CDS             10930..11925
                      /locus_tag="KU_20_SH18_11660_NMT_OH_added"
      Terminator      11926..12118
                      /locus_tag="tADH1"
-     Promoter        12119..12564
+     Promoter        12119..12614
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             12565..13898
+     CDS             12615..13898
                      /locus_tag="KU_20_SH18_11661_MFS_OH_added"
      Terminator      13899..14398
                      /locus_tag="tTEF1"

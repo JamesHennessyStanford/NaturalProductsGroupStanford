@@ -7,29 +7,29 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1506
+     CDS             502..1506
                      /locus_tag="KU11_FM3_3034_Cyclase_OH_added"
      Terminator      1507..1972
                      /locus_tag="tADH2"
-     Promoter        1973..2422
+     Promoter        1973..2472
                      /locus_tag="pADH2_bayanus"
-     CDS             2423..4080
+     CDS             2473..4080
                      /locus_tag="KU11_FM3_3033_P450_OH_added"
      Terminator      4081..4462
                      /locus_tag="tPGI1"
      Resistor        4463..5617
                      /locus_tag="Ura3"
-     Promoter        5618..6067
+     Promoter        5618..6117
                      /locus_tag="pPCK1"
-     CDS             6068..7698
+     CDS             6118..7698
                      /locus_tag="KU11_FM3_3032_P450_OH_added"
      Terminator      7699..8098
                      /locus_tag="tENO2"
-     Promoter        8099..8548
+     Promoter        8099..8598
                      /locus_tag="pMLS1"
-     CDS             8549..10197
+     CDS             8599..10197
                      /locus_tag="KU11_FM3_3031_FAD_OH_added"
      Terminator      10198..10697
                      /locus_tag="tTEF1"
@@ -290,29 +290,29 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..1676
+     CDS             501..1676
                      /locus_tag="KU11_FM3_3037_Hydrox_OH_added"
      Terminator      1677..2142
                      /locus_tag="tADH2"
-     Promoter        2143..2592
+     Promoter        2143..2642
                      /locus_tag="pADH2_bayanus"
-     CDS             2593..6878
+     CDS             2643..6878
                      /locus_tag="KU11_FM3_3027_AMP_SDR_OH_added_1"
      Terminator      6879..7260
                      /locus_tag="tPGI1"
      Resistor        7261..8365
                      /locus_tag="His3"
-     Promoter        8366..8815
+     Promoter        8366..8865
                      /locus_tag="pPCK1"
-     CDS             8816..10958
+     CDS             8866..10958
                      /locus_tag="KU11_FM3_3030_PHOS_OH_added"
      Terminator      10959..11358
                      /locus_tag="tENO2"
-     Promoter        11359..11808
+     Promoter        11359..11858
                      /locus_tag="pMLS1"
-     CDS             11809..12047
+     CDS             11859..12047
                      /locus_tag="KU11_FM3_3035_Hyp_OH_added"
      Terminator      12048..12547
                      /locus_tag="tTEF1"
@@ -465,8 +465,8 @@ ORIGIN
      8581 gcttggctgg ggatagcaac attgggcaga gtatagaaga ccacaaaaaa aaggtatata
      8641 agggcagaga agtctttgta atgtgtgtaa cttctcttcc atgtgtaatc agtatttcta
      8701 cttacttctt aaatatacag aagtaagaca gataaccaac agcctttccc agatatacat
-     8761 atatatcttt atttcagctt aaacaataat tatatttgtt taactcaaaa ataaatggtg
-     8821 acttgggccg gtatctacct gacggcattg tcgaatgcac tggtagagca gatgatcaag
+     8761 atatatcttt atttcagctt aaacaataat tatatttgtt taactcaaaa ataaaaaaaa
+     8821 aaaaccaaac tcacgcaact aattattcca taataaaata acaacgagca gatgatcaag
      8881 tcaaaattcg cggtttccgc attgaattgg gcgaaattga tactcattta agtcagcatc
      8941 ctctcatacg cgaaaacgtc acgcttgtca ggcgcgacaa gaatgaggag aagacgctcg
      9001 ttagctactt cgtaccgctg gaaggtactg cacttgatga atacgccagc gatgtgccag

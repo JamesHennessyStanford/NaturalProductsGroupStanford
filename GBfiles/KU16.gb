@@ -7,35 +7,35 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1488
+     CDS             502..1488
                      /locus_tag="KU16_PO11_11845_Cyclase_OH_added"
      Terminator      1489..1954
                      /locus_tag="tADH2"
-     Promoter        1955..2404
+     Promoter        1955..2454
                      /locus_tag="pADH2_bayanus"
-     CDS             2405..3990
+     CDS             2455..3990
                      /locus_tag="KU16_PO11_11844_FAD_oxidase_OH_added"
      Terminator      3991..4372
                      /locus_tag="tPGI1"
      Resistor        4373..5527
                      /locus_tag="Ura3"
-     Promoter        5528..5977
+     Promoter        5528..6027
                      /locus_tag="pPCK1"
-     CDS             5978..7644
+     CDS             6028..7644
                      /locus_tag="KU16_PO11_11843_P450_OH_added"
      Terminator      7645..8044
                      /locus_tag="tENO2"
-     Promoter        8045..8494
+     Promoter        8045..8544
                      /locus_tag="pMLS1"
-     CDS             8495..10170
+     CDS             8545..10170
                      /locus_tag="KU16_PO11_11841_2_P450_OH_added"
      Terminator      10171..10636
                      /locus_tag="tADH2"
-     Promoter        10637..11086
+     Promoter        10637..11136
                      /locus_tag="pADH2_paradoxus"
-     CDS             11087..12657
+     CDS             11137..12657
                      /locus_tag="KU16_PO11_11840_FAD_oxidase_OH_added"
      Terminator      12658..13157
                      /locus_tag="tTEF1"
@@ -337,29 +337,29 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..2018
+     CDS             501..2018
                      /locus_tag="KU16_PO11_11847_FAD_oxidase_OH_added"
      Terminator      2019..2484
                      /locus_tag="tADH2"
-     Promoter        2485..2934
+     Promoter        2485..2984
                      /locus_tag="pADH2_bayanus"
-     CDS             2935..3857
+     CDS             2985..3857
                      /locus_tag="KU16_PO11_11846_SDR_OH_added"
      Terminator      3858..4239
                      /locus_tag="tPGI1"
      Resistor        4240..5344
                      /locus_tag="His3"
-     Promoter        5345..5794
+     Promoter        5345..5844
                      /locus_tag="pPCK1"
-     CDS             5795..8682
+     CDS             5845..8682
                      /locus_tag="KU16_PO11_11848_AMP_ligase_OH_added"
      Terminator      8683..9082
                      /locus_tag="tENO2"
-     Promoter        9083..9532
+     Promoter        9083..9582
                      /locus_tag="pMLS1"
-     CDS             9533..12738
+     CDS             9583..12738
                      /locus_tag="KU16_PO11_11839_AMP_ligase_OH_added"
      Terminator      12739..13238
                      /locus_tag="tTEF1"

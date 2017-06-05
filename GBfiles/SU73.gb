@@ -7,9 +7,9 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..484
+     Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             485..8794
+     CDS             535..8794
                      /locus_tag="SU73_KN817529.1_pks"
      Terminator      8795..9294
                      /locus_tag="tTEF1"
@@ -24,7 +24,7 @@ ORIGIN
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
       421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
-      481 taaatggctt tgaagcccat tgcaattgtg agaatctgct ctctgatgta ctgtgattgg
+      481 taactatatc gtaatacaca atggattata aggatgatga tgataagact agttgattgg
       541 cgcagattta taatgtcttc aatttaggtt ggaatatcgg ctgaatttcc aagcggagcc
       601 tacagcactc aaaatttgaa ctatgacgat ttttcaaaat ttcttctcag caaaggagaa
       661 tcctacgaga aagtcccaaa ggatcgtttt gatatcgagc ggtgagtaga ggagctggcg
@@ -246,23 +246,23 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..1826
+     CDS             501..1826
                      /locus_tag="SU73_KN817529.1_8_amino_7_oxanoate_synthase"
      Terminator      1827..2292
                      /locus_tag="tADH2"
-     Promoter        2293..2742
+     Promoter        2293..2792
                      /locus_tag="pADH2_bayanus"
-     CDS             2743..6768
+     CDS             2793..6768
                      /locus_tag="SU73_KN817529.1_AMP_ligase"
      Terminator      6769..7150
                      /locus_tag="tPGI1"
      Resistor        7151..8255
                      /locus_tag="His3"
-     Promoter        8256..8705
+     Promoter        8256..8755
                      /locus_tag="pPCK1"
-     CDS             8706..10304
+     CDS             8756..10304
                      /locus_tag="SU73_KN817529.1_hyp"
      Terminator      10305..10704
                      /locus_tag="tENO2"
@@ -276,8 +276,8 @@ ORIGIN
       241 tttcagattg agagaatgaa aaaaaaaaaa aaaaaaaagg cagaggagag catagaaatg
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
-      421 gtttcttctt ggtaaataga atatcaagct tcaaacaatc tgtttggaag atttgctcga
-      481 gctgtcgtag tcgtgatcgt tactgacggc atgttcgatg tttattgcca ggggacgcag
+      421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
+      481 taactatatc gtaatacaca tactgacggc atgttcgatg tttattgcca ggggacgcag
       541 gggataatta tttgtcttga aaggagtgcg atctcttcca ccaacaatgg cgttctgtga
       601 tccgctgttt gcactgttca cgctagcgac ggttgattgc tgagcccatc caagacctac
       661 gcggacattt attagcatga aagagattcc cgacatggct gacaagcaat cgatgccaat
@@ -314,8 +314,8 @@ ORIGIN
      2521 tttaatggaa gaaaaaaaaa aggtacagca cagcgcaaat ggagttagtt cccttatgtc
      2581 acacactcac acacagtcgg tcagatcaag catactgggt gcgtataaat agagtggcca
      2641 ttgccaccct gtttatctca aaatctgtct tgttagtggt cttctccctt tttcaggtta
-     2701 caattctctt gtttctactt agtatataag tatatcaagc tattacataa aacctacagc
-     2761 acgccagtat gagacccaca atttcgcatc caccccgctc agctgctccg aattagccaa
+     2701 caattctctt gtttctactt agtatataag tatatcaagc tatattaagc atactatcaa
+     2761 ctgtcaactc tatcctcaaa atacaataca aaccccgctc agctgctccg aattagccaa
      2821 cgtgggggag gctttcacgg cgttctccgt agaaagacgt ggaagcccaa aagcctcgca
      2881 tgcgttctcg actgtcccat cggccttaag ccccaggctc ctgtagaaat tgagcagtcg
      2941 caaagccgca actgaattaa ggctcgtatc tgtatcttct ttctgagcga gcgctaaatg
@@ -414,7 +414,7 @@ ORIGIN
      8521 aaggtatata agggcagaga agtctttgta atgtgtgtaa cttctcttcc atgtgtaatc
      8581 agtatttcta cttacttctt aaatatacag aagtaagaca gataaccaac agcctttccc
      8641 agatatacat atatatcttt atttcagctt aaacaataat tatatttgtt taactcaaaa
-     8701 ataaactact tgtcaatctt aggcacacgg cgcacataga cgtctttgaa tgcactctcc
+     8701 ataaaaaaaa aaaaccaaac tcacgcaact aattattcca taataaaata acaactctcc
      8761 gcctgcccct cgggcttgac aaacccagcc gcgcgcttct cctccgccag cacgcgcaca
      8821 acgcccagga gatcgtccac ggccgcctcc gaagtctgga tgtgcaccac caggcgcgag
      8881 cccccgagga aaagcggctc cggcagcgca gaaccgcggt tgccgatctc gtcaaaggtg

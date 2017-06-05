@@ -7,41 +7,41 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1344
+     CDS             502..1344
                      /locus_tag="KU12_HI6_11661_Cyclase_OH_added"
      Terminator      1345..1810
                      /locus_tag="tADH2"
-     Promoter        1811..2260
+     Promoter        1811..2310
                      /locus_tag="pADH2_bayanus"
-     CDS             2261..3843
+     CDS             2311..3843
                      /locus_tag="KU12_HI6_11655_P450_OH_added"
      Terminator      3844..4225
                      /locus_tag="tPGI1"
      Resistor        4226..5380
                      /locus_tag="Ura3"
-     Promoter        5381..5830
+     Promoter        5381..5880
                      /locus_tag="pPCK1"
-     CDS             5831..7422
+     CDS             5881..7422
                      /locus_tag="KU12_HI6_11638_P450_OH_added"
      Terminator      7423..7822
                      /locus_tag="tENO2"
-     Promoter        7823..8272
+     Promoter        7823..8322
                      /locus_tag="pMLS1"
-     CDS             8273..9639
+     CDS             8323..9639
                      /locus_tag="KU12_HI6_11667_AMP_ligase_OH_added"
      Terminator      9640..10105
                      /locus_tag="tADH2"
-     Promoter        10106..10555
+     Promoter        10106..10605
                      /locus_tag="pADH2_paradoxus"
-     CDS             10556..11922
+     CDS             10606..11922
                      /locus_tag="KU12_HI6_11646_monocarbox_MFS_OH_added"
      Terminator      11923..12115
                      /locus_tag="tADH1"
-     Promoter        12116..12561
+     Promoter        12116..12611
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             12562..14141
+     CDS             12612..14141
                      /locus_tag="KU12_HI6_11632_MFS_OH_added"
      Terminator      14142..14641
                      /locus_tag="tTEF1"

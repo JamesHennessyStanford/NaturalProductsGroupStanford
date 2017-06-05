@@ -7,9 +7,9 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..484
+     Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             485..7328
+     CDS             535..7328
                      /locus_tag="KU27_AN22_1465_PKS_OH_added_1"
      Terminator      7329..7828
                      /locus_tag="tTEF1"
@@ -250,35 +250,35 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..1271
+     CDS             501..1271
                      /locus_tag="KU27_AN22_1464_esterase_OH_added"
      Terminator      1272..1737
                      /locus_tag="tADH2"
-     Promoter        1738..2187
+     Promoter        1738..2237
                      /locus_tag="pADH2_bayanus"
-     CDS             2188..5609
+     CDS             2238..5609
                      /locus_tag="KU27_AN22_1469_amino_oxidase_OH_added"
      Terminator      5610..5991
                      /locus_tag="tPGI1"
      Resistor        5992..7146
                      /locus_tag="Ura3"
-     Promoter        7147..7596
+     Promoter        7147..7646
                      /locus_tag="pPCK1"
-     CDS             7597..11018
+     CDS             7647..11018
                      /locus_tag="KU27_AN22_1467_A_TD_OH_added"
      Terminator      11019..11418
                      /locus_tag="tENO2"
-     Promoter        11419..11868
+     Promoter        11419..11918
                      /locus_tag="pMLS1"
-     CDS             11869..13961
+     CDS             11919..13961
                      /locus_tag="KU27_AN22_1466_hyp_OH_added"
      Terminator      13962..14427
                      /locus_tag="tADH2"
-     Promoter        14428..14877
+     Promoter        14428..14927
                      /locus_tag="pADH2_paradoxus"
-     CDS             14878..15254
+     CDS             14928..15254
                      /locus_tag="KU27_AN22_1468_hyp_OH_added"
      Terminator      15255..15754
                      /locus_tag="tTEF1"
@@ -321,8 +321,8 @@ ORIGIN
      1981 aaaaaaggta cagcacagcg caaatggagt tagttccctt atgtcacaca ctcacacaca
      2041 gtcggtcaga tcaagcatac tgggtgcgta taaatagagt ggccattgcc accctgttta
      2101 tctcaaaatc tgtcttgtta gtggtcttct ccctttttca ggttacaatt ctcttgtttc
-     2161 tacttagtat ataagtatat caagctacta tatcgtaata cacaatggat tataaggatg
-     2221 atgatgataa gactagtatg cataaccgag cttccgcatt aacctcagat acagccgcca
+     2161 tacttagtat ataagtatat caagctatat taagcatact atcaactgtc aactctatcc
+     2221 tcaaaataca atacaaaatg cataaccgag cttccgcatt aacctcagat acagccgcca
      2281 taatgactat cacgaacagt tcgcaggcgc cgattgcaat tgtaggcatg tcctgtcgcc
      2341 ttccaggcca ggttcgtacg cttgatgact tctggactct catatctcgc ggtagggatg
      2401 cttggggccc tatcccttct gatcgcatgt ccagtgcggc ctactaccac ccagatcccc
@@ -411,8 +411,8 @@ ORIGIN
      7381 cattgggcag agtatagaag accacaaaaa aaaggtatat aagggcagag aagtctttgt
      7441 aatgtgtgta acttctcttc catgtgtaat cagtatttct acttacttct taaatataca
      7501 gaagtaagac agataaccaa cagcctttcc cagatataca tatatatctt tatttcagct
-     7561 taaacaataa ttatatttgt ttaactcaaa aataaatcga ttcagacagc ggggtgaccg
-     7621 ttggaagagc aggcgtcggg aacagctggt atgcgcgcgg aaaggttaca gttcccaaca
+     7561 taaacaataa ttatatttgt ttaactcaaa aataaaaaaa aaaaaccaaa ctcacgcaac
+     7621 taattattcc ataataaaat aacaactggt atgcgcgcgg aaaggttaca gttcccaaca
      7681 ccgcgcaaag catgccctca ggccatgaga ccccgtttat tgtgtctcct gcgttcctgg
      7741 atctattttt ccagttgtcc ttccccgttt tgcgggcgga ctctgccaac attccgtgcc
      7801 tcttcatgcc gacttctatc cgggagatca atatcgcagc caatttccca tcgcaaccgg

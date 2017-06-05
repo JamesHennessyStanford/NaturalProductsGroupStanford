@@ -7,9 +7,9 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..484
+     Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             485..1985
+     CDS             535..1985
                      /locus_tag="SU62_EFR04828.1_pks"
      Terminator      1986..2485
                      /locus_tag="tTEF1"
@@ -24,7 +24,7 @@ ORIGIN
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
       421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
-      481 taaatgccgc gcttcaaccc cctaagcatc tcctgtctgg ctactctgct gaccacctac
+      481 taactatatc gtaatacaca atggattata aggatgatga tgataagact agtcacctac
       541 cttggtacag catctgtatc tgcacagtca ccaccccagg aaaccctctg gccggtgcag
       601 acgttccaga gtacggatat ccagacgccg tttttcaatg tgacgaagaa aggccagacg
       661 gaaccgggct atatcttcat aagcccgaga gataaggccc gaaacattgg acatccagct
@@ -133,23 +133,23 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..2260
+     CDS             501..2260
                      /locus_tag="SU62_EFR04829.1_esterase"
      Terminator      2261..2726
                      /locus_tag="tADH2"
-     Promoter        2727..3176
+     Promoter        2727..3226
                      /locus_tag="pADH2_bayanus"
-     CDS             3177..10065
+     CDS             3227..10065
                      /locus_tag="SU62_EFR04827.1_fatty-acid-CoA_ligase"
      Terminator      10066..10447
                      /locus_tag="tPGI1"
      Resistor        10448..11552
                      /locus_tag="His3"
-     Promoter        11553..12002
+     Promoter        11553..12052
                      /locus_tag="pPCK1"
-     CDS             12003..12714
+     CDS             12053..12714
                      /locus_tag="SU62_EFR04826.1_hypothetical_protein"
      Terminator      12715..13114
                      /locus_tag="tENO2"
@@ -163,8 +163,8 @@ ORIGIN
       241 tttcagattg agagaatgaa aaaaaaaaaa aaaaaaaagg cagaggagag catagaaatg
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
-      421 gtttcttctt ggtaaataga atatcaagct atggacgact tgctggctct cgtcgagggt
-      481 ggccctgcgc tcaagccgac gatcaactca ctctggacag ccctgcacca gcgtgccagc
+      421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
+      481 taactatatc gtaatacaca gatcaactca ctctggacag ccctgcacca gcgtgccagc
       541 atacagccag acagactggc cctgctgagc ccccggcagc ctggaaactt gctcgaagga
       601 ctcgtccggc ctagaggaag gagagatgag agtggcagcc gcgatgccct catgcgtagc
       661 ctcaagcgag cagccacacc ggcgtacatg ctcagctacc tgctatcgtg ggttctgccg
@@ -208,8 +208,8 @@ ORIGIN
      2941 aagagcatcg caggtttaat ggaagaaaaa aaaaaggtac agcacagcgc aaatggagtt
      3001 agttccctta tgtcacacac tcacacacag tcggtcagat caagcatact gggtgcgtat
      3061 aaatagagtg gccattgcca ccctgtttat ctcaaaatct gtcttgttag tggtcttctc
-     3121 cctttttcag gttacaattc tcttgtttct acttagtata taagtatatc aagctaatgg
-     3181 agaagccgat gcctattgcc atcattggca tggcatgccg cacttcgggc ggcgttgctt
+     3121 cctttttcag gttacaattc tcttgtttct acttagtata taagtatatc aagctatatt
+     3181 aagcatacta tcaactgtca actctatcct caaaatacaa tacaaagggc ggcgttgctt
      3241 cattagatga attctggacg atgctctctc gctgcagaga cggctctggt ccgattccaa
      3301 aggacagatt ctcctctgct gcatactatc accccaatcc gcaaaagcga ggcacattca
      3361 accagcttgg aggctatttc atggacagag atgtgtccta cttcgacgcc ccgttcttta
@@ -356,7 +356,7 @@ ORIGIN
     11821 gtatataagg gcagagaagt ctttgtaatg tgtgtaactt ctcttccatg tgtaatcagt
     11881 atttctactt acttcttaaa tatacagaag taagacagat aaccaacagc ctttcccaga
     11941 tatacatata tatctttatt tcagcttaaa caataattat atttgtttaa ctcaaaaata
-    12001 aaatgaagat cctctgtatc catggctcgt atggcagcgc atctgccttt cgcacccagc
+    12001 aaaaaaaaaa accaaactca cgcaactaat tattccataa taaaataaca accacccagc
     12061 tcgaaccctt tctcgcccag atagagaagc ctggggaggt ggatttcaaa ttcatcgacg
     12121 gcctctatcc tgccgtgcct ccagatggct ttcaggacta ctttggcccg ccacctcact
     12181 tcctcaacgt tcaatacgac ggtattgctg gcttagagaa catgcaattg aacctgcgta

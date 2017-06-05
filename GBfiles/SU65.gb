@@ -7,9 +7,9 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..484
+     Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             485..1445
+     CDS             535..1445
                      /locus_tag="SU65_EFQ95560.1_PKS"
      Terminator      1446..1945
                      /locus_tag="tTEF1"
@@ -24,7 +24,7 @@ ORIGIN
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
       421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
-      481 taaatgtcga tgacatcagg caacaccaag gataagggcg gctacagaca aatcaacaag
+      481 taactatatc gtaatacaca atggattata aggatgatga tgataagact agtcaacaag
       541 tccctcaaca tctgcgcctt tgaagattac ctcaacggcc aaacagcagg gttgaagcct
       601 atcccagatg tcgaacaagt cacaccaaga gtgatgcgtg tacgaggaca gaaccccggc
       661 aagttcacaa tgcaaggcac aaacacgttc ctagtcggca ctggcgcttc tcgcatcctc
@@ -124,23 +124,23 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..5758
+     CDS             501..5758
                      /locus_tag="SU65_EFQ95559.1_BLA"
      Terminator      5759..6224
                      /locus_tag="tADH2"
-     Promoter        6225..6674
+     Promoter        6225..6724
                      /locus_tag="pADH2_bayanus"
-     CDS             6675..7548
+     CDS             6725..7548
                      /locus_tag="SU65_EFQ95562.1_KR"
      Terminator      7549..7930
                      /locus_tag="tPGI1"
      Resistor        7931..9035
                      /locus_tag="His3"
-     Promoter        9036..9485
+     Promoter        9036..9535
                      /locus_tag="pPCK1"
-     CDS             9486..10224
+     CDS             9536..10224
                      /locus_tag="SU65_EFQ95561.1_hyp"
      Terminator      10225..10624
                      /locus_tag="tENO2"
@@ -154,8 +154,8 @@ ORIGIN
       241 tttcagattg agagaatgaa aaaaaaaaaa aaaaaaaagg cagaggagag catagaaatg
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
-      421 gtttcttctt ggtaaataga atatcaagct atgaacgcca tctatttcag caacgaattc
-      481 cccaaggagg atttgaagga tgtcttccga cagctgcaca aggagagcaa gagcagcatc
+      421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
+      481 taactatatc gtaatacaca tgtcttccga cagctgcaca aggagagcaa gagcagcatc
       541 caccatctgc tcgcacgctt tatgagtgag gccacgaggg ctgtgaagaa ggagattgag
       601 cagctaccgt ccagcctgaa gcagataata cctccttttg agactctcag tgcttgggcg
       661 gagcagaagg aactccgcga aggtgaactg tgtggcgcta tcgatggcgt tttactagtt
@@ -258,8 +258,8 @@ ORIGIN
      6481 cacagcgcaa atggagttag ttcccttatg tcacacactc acacacagtc ggtcagatca
      6541 agcatactgg gtgcgtataa atagagtggc cattgccacc ctgtttatct caaaatctgt
      6601 cttgttagtg gtcttctccc tttttcaggt tacaattctc ttgtttctac ttagtatata
-     6661 agtatatcaa gctaatggag agcccttttg tgatgccgca ggaggatgtg gaggcgctgg
-     6721 gtcagtcaaa ggcgttttgc gcgctgagga ggtgtcttgc tggtgaggcc gcgttttgcg
+     6661 agtatatcaa gctatattaa gcatactatc aactgtcaac tctatcctca aaatacaata
+     6721 caaagtcaaa ggcgttttgc gcgctgagga ggtgtcttgc tggtgaggcc gcgttttgcg
      6781 caacacacgc gcattgcaca ccccaagcca aacaaacatg gctccttcac cgcgacattc
      6841 tccacgccct catcatgcct gtagtgacgc tcttttcgcg cgcctcaact ctggcgtcgg
      6901 ccgccctctg tacgcagcga acgtcggacc tcgaacttgc gttttcgggt gaatcgcgca
@@ -305,7 +305,7 @@ ORIGIN
      9301 aaggtatata agggcagaga agtctttgta atgtgtgtaa cttctcttcc atgtgtaatc
      9361 agtatttcta cttacttctt aaatatacag aagtaagaca gataaccaac agcctttccc
      9421 agatatacat atatatcttt atttcagctt aaacaataat tatatttgtt taactcaaaa
-     9481 ataaaatgga taacacgacc ctcttcgacg tcaagaacaa aattgtcctc gtgaccggcg
+     9481 ataaaaaaaa aaaaccaaac tcacgcaact aattattcca taataaaata acaaccggcg
      9541 gcgccaaagg catcggccgc atgataagcg aaggtttcat ccaaaacggc gcaaacgtct
      9601 acatctcgtc ccgcgacgcg aaagcgtgcg agcaagcatg taaagagctg aatgcactgg
      9661 gaaaaggcaa agcagagttt atcgttgcgg atttgtatcg ggaggatgcg gcgagttttg

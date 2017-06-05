@@ -7,35 +7,35 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..451
+     Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             452..1377
+     CDS             502..1377
                      /locus_tag="KU13_CeS8_5906_Cyclase_OH_added"
      Terminator      1378..1843
                      /locus_tag="tADH2"
-     Promoter        1844..2293
+     Promoter        1844..2343
                      /locus_tag="pADH2_bayanus"
-     CDS             2294..3876
+     CDS             2344..3876
                      /locus_tag="KU13_CeS8_5905_P450_OH_added"
      Terminator      3877..4258
                      /locus_tag="tPGI1"
      Resistor        4259..5413
                      /locus_tag="Ura3"
-     Promoter        5414..5863
+     Promoter        5414..5913
                      /locus_tag="pPCK1"
-     CDS             5864..7524
+     CDS             5914..7524
                      /locus_tag="KU13_CeS8_5911_P450_OH_added"
      Terminator      7525..7924
                      /locus_tag="tENO2"
-     Promoter        7925..8374
+     Promoter        7925..8424
                      /locus_tag="pMLS1"
-     CDS             8375..10233
+     CDS             8425..10233
                      /locus_tag="KU13_CeS8_5904_choline_DH_OH_added"
      Terminator      10234..10699
                      /locus_tag="tADH2"
-     Promoter        10700..11149
+     Promoter        10700..11199
                      /locus_tag="pADH2_paradoxus"
-     CDS             11150..13290
+     CDS             11200..13290
                      /locus_tag="KU13_CeS8_5910_halogenase_OH_added"
      Terminator      13291..13790
                      /locus_tag="tTEF1"
@@ -347,29 +347,29 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..450
+     Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             451..3344
+     CDS             501..3344
                      /locus_tag="KU13_CeS8_5907_AMP_ligase_OH_added"
      Terminator      3345..3810
                      /locus_tag="tADH2"
-     Promoter        3811..4260
+     Promoter        3811..4310
                      /locus_tag="pADH2_bayanus"
-     CDS             4261..4991
+     CDS             4311..4991
                      /locus_tag="KU13_CeS8_5909_superoxide_dism_OH_added"
      Terminator      4992..5373
                      /locus_tag="tPGI1"
      Resistor        5374..6478
                      /locus_tag="His3"
-     Promoter        6479..6928
+     Promoter        6479..6978
                      /locus_tag="pPCK1"
-     CDS             6929..8577
+     CDS             6979..8577
                      /locus_tag="KU13_CeS8_5908_MFS_OH_added"
      Terminator      8578..8977
                      /locus_tag="tENO2"
-     Promoter        8978..9427
+     Promoter        8978..9477
                      /locus_tag="pMLS1"
-     CDS             9428..11976
+     CDS             9478..11976
                      /locus_tag="KU13_CeS8_5912_MFS_OH_added"
      Terminator      11977..12476
                      /locus_tag="tTEF1"
