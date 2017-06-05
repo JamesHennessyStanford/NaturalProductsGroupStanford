@@ -7,11 +7,11 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..534
+     Promoter        2..484
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             535..7786
+     CDS             485..7736
                      /locus_tag="KU44_SL06_4461_PKS_OH_added_1"
-     Terminator      7787..8236
+     Terminator      7737..8236
                      /locus_tag="tTEF1"
      Backbone        8237..12126
                      /locus_tag="pCHINT2A"
@@ -229,25 +229,25 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..500
+     Promoter        1..450
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..1822
+     CDS             451..1772
                      /locus_tag="KU44_SL06_4462_aminotransferas_OH_added"
-     Terminator      1823..2238
+     Terminator      1773..2238
                      /locus_tag="tADH2"
-     Promoter        2239..2738
+     Promoter        2239..2688
                      /locus_tag="pADH2_bayanus"
-     CDS             2739..5731
+     CDS             2689..5681
                      /locus_tag="KU44_SL06_4460_TPR_repeat_OH_added"
-     Terminator      5732..6063
+     Terminator      5682..6063
                      /locus_tag="tPGI1"
      Resistor        6063^6064
                      /locus_tag="none"
-     Promoter        6064..6563
+     Promoter        6064..6513
                      /locus_tag="pPCK1"
-     CDS             6564..8134
+     CDS             6514..8084
                      /locus_tag="KU44_SL06_4463_MFS_transporter_OH_added"
-     Terminator      8135..8584
+     Terminator      8085..8584
                      /locus_tag="tTEF1"
      Backbone        8585..14186
                      /locus_tag="pCHINT2AL"

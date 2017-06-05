@@ -7,37 +7,37 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..501
+     Promoter        2..451
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..1439
+     CDS             452..1389
                      /locus_tag="KU18_SH9_7287_Cyclase_OH_added"
-     Terminator      1440..1855
+     Terminator      1390..1855
                      /locus_tag="tADH2"
-     Promoter        1856..2355
+     Promoter        1856..2305
                      /locus_tag="pADH2_bayanus"
-     CDS             2356..3779
+     CDS             2306..3729
                      /locus_tag="KU18_SH9_7288_P450_OH_added"
-     Terminator      3780..4111
+     Terminator      3730..4111
                      /locus_tag="tPGI1"
      Resistor        4112..5266
                      /locus_tag="Ura3"
-     Promoter        5267..5766
+     Promoter        5267..5716
                      /locus_tag="pPCK1"
-     CDS             5767..7241
+     CDS             5717..7191
                      /locus_tag="KU18_SH9_7289_P450_OH_added"
-     Terminator      7242..7591
+     Terminator      7192..7591
                      /locus_tag="tENO2"
-     Promoter        7592..8091
+     Promoter        7592..8041
                      /locus_tag="pMLS1"
-     CDS             8092..9581
+     CDS             8042..9531
                      /locus_tag="KU18_SH9_7286_P450_OH_added"
-     Terminator      9582..9997
+     Terminator      9532..9997
                      /locus_tag="tADH2"
-     Promoter        9998..10497
+     Promoter        9998..10447
                      /locus_tag="pADH2_paradoxus"
-     CDS             10498..11267
+     CDS             10448..11217
                      /locus_tag="KU18_SH9_7285_DH_OH_added"
-     Terminator      11268..11717
+     Terminator      11218..11717
                      /locus_tag="tTEF1"
      Backbone        11718..15607
                      /locus_tag="pCHINT2A"
@@ -200,8 +200,8 @@ ORIGIN
      9301 tcaactccga taaggacatc aatcccgatc cccgctcttt tgtttatggt tttggacgaa
      9361 gaaggtgtcc cgcagtggat tttgcggata caacactttt tattaccata actcgccttc
      9421 tgacagtctt caaaatctcc ccggagatgg ttgacgggaa tgcataccca cccccgctgg
-     9481 aagttaggga aggatttact ccggctccaa aaccgttccg attgtcctag atttaactcc
-     9541 ttaagttact ttaatgattt agtttttatt attaataatt tatattagta tatagcatct
+     9481 aagttaggga aggatttact ccggctccaa aaccgttccg attgtcctag gcggatctct
+     9541 tatgtcttta cgatttatag ttttcattat caagtatgcc tatattagta tatagcatct
      9601 ttagatgaca gtgttcgaag tttcacgaat aaaagataat attctacttt ttgctcccac
      9661 cgcgtttgct agcacgagtg aacaccatcc ctcgcctgtg agttgtaccc attcctctaa
      9721 actgtagaca tggtagcttc agcagtgttc gttatgtacg gcatcctcca acaaacagtc

@@ -7,11 +7,11 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..534
+     Promoter        2..484
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             535..1363
+     CDS             485..1313
                      /locus_tag="SU64_EOA86422.1_pks"
-     Terminator      1364..1813
+     Terminator      1314..1813
                      /locus_tag="tTEF1"
      Backbone        1814..5703
                      /locus_tag="pCHINT2A"
@@ -24,7 +24,7 @@ ORIGIN
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
       421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
-      481 taactatatc gtaatacaca atggattata aggatgatga tgataagact agtgcgcgga
+      481 taaatgtcca accgccagaa tatcgaattc aaaaccctca gcggcgtcac gctgcgcgga
       541 tggctgtatc cgagtgaaac gcaaaagaaa ggaccgggca ttattctgtc ggctggtttc
       601 aacatgccca aagacgtcgt cgtcccggac gtcgcagaat ggttccagcg gcacggcttc
       661 acggccctgg tcttcgacac gtttggcatt ggcgagagtg aggggttgcc gcggtgtgat
@@ -37,8 +37,8 @@ ORIGIN
      1081 cccgttgaga atcgcgcgac ggtccagagt tacctgcggg gcttatcctg gagtatcgag
      1141 catttgctgc cgaggattag tcccacgccc gtcttcatgc tgacgccaga gctggaccag
      1201 gtgtttgctg cggagcgcca gaccaaggcg tttgagatgc tgggggaacc caaagaacag
-     1261 tttttggtcg agggaaagga tcatttcaat tggatgtttg gcgatgtgga tgccgtgttt
-     1321 gggaggcagt tgcggttttt gaagaggttt gtcgcggttt gatctattag ttaatttttt
+     1261 tttttggtcg agggaaagga tcatttcaat tggatgtttg gcgatgtgga tgggagattg
+     1321 ataagacttt tctagttgca tatcttttat atttaaatct tatctattag ttaatttttt
      1381 gtaatttatc cttatatata gtctggttat tctaaaatat catttcagta tctaaaaatt
      1441 cccctctttt ttcagttata tcttaacagg cgacagtcca aatgttgatt tatcccagtc
      1501 cgattcatca gggttgtgaa gcattttgtc aatggtcgaa atcacatcag taatagtgcc
@@ -122,43 +122,43 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..500
+     Promoter        1..450
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..1512
+     CDS             451..1462
                      /locus_tag="SU64_EOA86424.1_esterase"
-     Terminator      1513..1928
+     Terminator      1463..1928
                      /locus_tag="tADH2"
-     Promoter        1929..2428
+     Promoter        1929..2378
                      /locus_tag="pADH2_bayanus"
-     CDS             2429..3656
+     CDS             2379..3606
                      /locus_tag="SU64_EOA86425.1_FAD-hydroxylase"
-     Terminator      3657..3988
+     Terminator      3607..3988
                      /locus_tag="tPGI1"
      Resistor        3989..5093
                      /locus_tag="His3"
-     Promoter        5094..5593
+     Promoter        5094..5543
                      /locus_tag="pPCK1"
-     CDS             5594..7238
+     CDS             5544..7188
                      /locus_tag="SU64_EOA86423.1_OMT"
-     Terminator      7239..7588
+     Terminator      7189..7588
                      /locus_tag="tENO2"
-     Promoter        7589..8088
+     Promoter        7589..8038
                      /locus_tag="pMLS1"
-     CDS             8089..9250
+     CDS             8039..9200
                      /locus_tag="SU64_EOA86426.1_YfhR_like"
-     Terminator      9251..9666
+     Terminator      9201..9666
                      /locus_tag="tADH2"
-     Promoter        9667..10166
+     Promoter        9667..10116
                      /locus_tag="pADH2_paradoxus"
-     CDS             10167..18498
+     CDS             10117..18448
                      /locus_tag="SU64_EOA86427.1_ER"
-     Terminator      18499..18641
+     Terminator      18449..18641
                      /locus_tag="tADH1"
-     Promoter        18642..19137
+     Promoter        18642..19087
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             19138..20002
+     CDS             19088..19952
                      /locus_tag="SU64_EOA86421.1_Drug_resistance_transporter"
-     Terminator      20003..20227
+     Terminator      19953..20227
                      /locus_tag="tCYC1"
      Backbone        20228..24116
                      /locus_tag="pCHINT3A"
@@ -170,8 +170,8 @@ ORIGIN
       241 tttcagattg agagaatgaa aaaaaaaaaa aaaaaaaagg cagaggagag catagaaatg
       301 gggttcactt tttggtaaag ctatagcatg cctatcacat ataaatagag tgccagtagc
       361 gacttttttc acactcgaaa tactcttact actgctctct tgttgttttt atcacttctt
-      421 gtttcttctt ggtaaataga atatcaagct acaaaaagca tacaatcaac tatcaactat
-      481 taactatatc gtaatacaca tattgagatt ccgtgcccaa aacccggcac catgttgtgt
+      421 gtttcttctt ggtaaataga atatcaagct atgaacgctc ttgttggcga tgaagccggc
+      481 ggctaccgac tcgcccataa tattgagatt ccgtgcccaa aacccggcac catgttgtgt
       541 cgtgtgcacg ccgtagccgt cagtccgtac gacgccaaga tctccgacta ctccaacatc
       601 cccggggcca ttggcggctg cgactttgca ggcatcgtag tcgaagtcgg cgacgacgtg
       661 aagcgcttca aggcaggcga ccgcattctc gccgtcacat ttggattgaa tgcgctggac
@@ -187,8 +187,8 @@ ORIGIN
      1261 atggcaccca ccatcatggg ttccccagtc ctgatttcag gcacctacgg tagacccagt
      1321 acgcctgcgc accgccgctt tggagctgcg tttttcgccc tcgtggagac gctgttgcgc
      1381 gagggaaaac tcaagggcca tcccgtgcag atgagagatg gcgggcttgc gaagatccct
-     1441 acgtatgtgg ataatgtgcg ggtgaggggt gttcaggccc agaggcaggt tgtgccgttg
-     1501 gttgttgagt agtatattag tatatagcat ctttagatga cagtgttcga agtttcacga
+     1441 acgtatgtgg ataatgtgcg gggcggatct cttatgtctt tacgatttat agttttcatt
+     1501 atcaagtatg cctatattag tatatagcat ctttagatga cagtgttcga agtttcacga
      1561 ataaaagata atattctact ttttgctccc accgcgtttg ctagcacgag tgaacaccat
      1621 ccctcgcctg tgagttgtac ccattcctct aaactgtaga catggtagct tcagcagtgt
      1681 tcgttatgta cggcatcctc caacaaacag tcggttatag tttgtcctgc tcctctgaat
@@ -202,8 +202,8 @@ ORIGIN
      2161 atggaagaaa aaaaaaaggt acagcacagc gcaaatggag ttagttccct tatgtcacac
      2221 actcacacac agtcggtcag atcaagcata ctgggtgcgt ataaatagag tggccattgc
      2281 caccctgttt atctcaaaat ctgtcttgtt agtggtcttc tccctttttc aggttacaat
-     2341 tctcttgttt ctacttagta tataagtata tcaagctata ttaagcatac tatcaactgt
-     2401 caactctatc ctcaaaatac aatacaaatg gaggactcac actcggtctt gtcttcaagc
+     2341 tctcttgttt ctacttagta tataagtata tcaagctaat gggctcctta gcacccgctc
+     2401 catccgtagc catcattggc gctggccttg gaggactcac actcggtctt gtcttcaagc
      2461 aacatggcta cgacccaaca ttctatgaac tgcgagaccc tgattacgac ttaggtggcg
      2521 ccatcatgct gcagcccaac gctctgtgcg tcctggatgc tctcggtgtc tattcccgcg
      2581 tcaagtcccg gggctttggc gcccaggtca tcacattcct ggctgaccct gacctcgagt
@@ -223,7 +223,7 @@ ORIGIN
      3421 acgcactgaa ggcgtggaac gactaccggc aaaagagaat ggaaaaggta ctcacgctga
      3481 cgctgcaggt gctttcgatg cgaatgtcca acgaagagaa ggcaaagatt cctgaggagc
      3541 tgaggtggga cgacgatgga agcgaggggg gcaagacaaa gctctcgtgg ctgtatgtca
-     3601 acgacgtgaa gagcgatgtt gaggcgctgc tggaggagct gggtgtcgag cgctgagcaa
+     3601 acgacgacaa atcgctctta aatatatacc taaagaacat taaagctata ttataagcaa
      3661 agatacgtaa attttgctta tattattata cacatatcat atttctatat ttttaagatt
      3721 tggttatata atgtacgtaa tgcaaaggaa ataaatttta tacattattg aacagcgtcc
      3781 aagtaactac attatgtgca ctaatagttt agcgtcgtga agactttatt gtgtcgcgaa
@@ -255,8 +255,8 @@ ORIGIN
      5341 atagaagacc acaaaaaaaa ggtatataag ggcagagaag tctttgtaat gtgtgtaact
      5401 tctcttccat gtgtaatcag tatttctact tacttcttaa atatacagaa gtaagacaga
      5461 taaccaacag cctttcccag atatacatat atatctttat ttcagcttaa acaataatta
-     5521 tatttgttta actcaaaaat aaaaaaaaaa aaccaaactc acgcaactaa ttattccata
-     5581 ataaaataac aacagatatc catgaccaat ccgtcagctc atcatctagc accggccccg
+     5521 tatttgttta actcaaaaat aaaatgtcta caactccgtc ctacccaaat ggcgacgagg
+     5581 aaaaacaagt tgtagatatc catgaccaat ccgtcagctc atcatctagc accggccccg
      5641 aatcagaaaa acctcgactc agcaaagaca gcgcaggtgc ggaagaaggc ggagccacag
      5701 agtcacagga tgccggcgag tacgcaactg gagcgaagct cttgattatc gtccttgccc
      5761 tagtcctcag tgttttcctc ttctctctcg accagacgat tgtcgcgacc gcgattccga
@@ -282,8 +282,8 @@ ORIGIN
      6961 cttttctcgt cgctgccgct caatccggtt tcgtcaacca gctcctgcac aaactcgcct
      7021 ctactgccgc tggcgtaaac ccagctctcg tcgtagctac cggtgccact gatctgcaca
      7081 gggttttctc aggtgatgag ctgaatggtg ttctggtcgc atacatggct ggcatcaagg
-     7141 tcgcgttcgc tattacggtt ggtgctgtcg gcatctcagt cccgatcagc ttgctgagca
-     7201 agtgggggag aataaaccag cagaagccta gtgtgtgaag tttagaacac tttatattaa
+     7141 tcgcgttcgc tattacggtt ggtgctgtcg gcatctcagt cccgatcaag tgcttttaac
+     7201 taagaattat tagtcttttc tgcttatttt ttcatcatag tttagaacac tttatattaa
      7261 cgaatagttt atgaatctat ttaggtttaa aaattgatac agttttataa gttacttttt
      7321 caaagactcg tgctgtctat tgcataatgc actggaaggg gaaaaaaaag gtgcacacgc
      7381 gtggcttttt cttgaatttg cagtttgaaa aataactaca tggatgataa gaaaacatgg
@@ -297,7 +297,7 @@ ORIGIN
      7861 ataataaaat gcgaaggatc gatgaccctt attattattt ttctacactg gctaccgatt
      7921 taactcatct tcttgaaagt atataagtaa cagtaaaata taccgtactt ctgctaatgt
      7981 tatttgtccc ttatttttct tttcttgtct tatgctatag tacctaagaa taacgactat
-     8041 tgttttgaac taaacaaagt agtaaaagca cataaaagaa ttaagaaagc tggttcaaag
+     8041 gggagacgca tcacccgatt ccaactatct cattgagcag ctcaatctgc tggttcaaag
      8101 tacagagact ctaagccgag gagtcgacga aacccaacgt ctagagcttc agcgcctcac
      8161 tcgccttgct tcggtcgctt tggaaacacc acccgagacc acggaacgcg tcatcttcgc
      8221 atacctacct ctggtcactg cacgcatcag caacgactat ggcatcctcg ccaacttggt
@@ -316,8 +316,8 @@ ORIGIN
      9001 catgggacct gacagtgtat tgctcatttc ggactacgtg caaggactac gatgggagaa
      9061 cgaaggtggg cctctagagg cggatttgtt cacaccggcc gtagccctct cttcgcacat
      9121 ttgccatgga gctaagggaa ggtcccgcgc agactaccgt gagcttttgg agcgtgctgg
-     9181 gttagagcta aaggaagtca aggcgctgac cagtttcggt caggcattga tcatcgctaa
-     9241 gaaactgtag tatattagta tatagcatct ttagatgaca gtgttcgaag tttcacgaat
+     9181 gttagagcta aaggaagtca gcggatctct tatgtcttta cgatttatag ttttcattat
+     9241 caagtatgcc tatattagta tatagcatct ttagatgaca gtgttcgaag tttcacgaat
      9301 aaaagataat attctacttt ttgctcccac cgcgtttgct agcacgagtg aacaccatcc
      9361 ctcgcctgtg agttgtaccc attcctctaa actgtagaca tggtagcttc agcagtgttc
      9421 gttatgtacg gcatcctcca acaaacagtc ggttatagtt tgtcctgctc ctctgaatcg
@@ -331,8 +331,8 @@ ORIGIN
      9901 gaaataagag aatttcagat tttcagagga tgaaaaaaaa aaggtagaga gcataaaaat
      9961 ggggttcact ttttggcaaa gttacagtat gcttattaca tataaataga gtgccgataa
     10021 tggctttttt tcatcttcga aatacgcttg ctactgctct tccagcgttt ttattacttc
-    10081 tttcttgttt ctccttagta tataaaatat caagctacaa caagcataca atcaactgtc
-    10141 aactgtcaat tatattataa tacactcatt gtaggaacct catgtcggtt tccaggtggt
+    10081 tttcttgttt ctccttagta tataaaatat caagctatgg gtagctatcc agagaccaac
+    10141 ctcctctcca tcccagagcc catcgccatt gtaggaacct catgtcggtt tccaggtggt
     10201 gcagactctc catctaaact atggagtctc ctcaagaacc ctcaagacat tgtgcaagag
     10261 attcctccga gtcgcttcga cacgaaaggg ttctacaaca aagacagcca acaccacggt
     10321 agcttgaacg cacgacacgc atatcttttg caagatgatc cccgagcatt cgaccgcgac
@@ -470,8 +470,8 @@ ORIGIN
     18241 gtggaaatgg cgtggagcct ggattcccgt gaatcattcg ccgtacacaa ctactgcagc
     18301 aataacagtt acttgctttc ggatcttgcg ggaatgtaca gagagagact cggggccaat
     18361 gttgaggttc tgccgacgcc tgagtggatg cgcagggcca tcgcgatggg tatgcccaag
-    18421 ggtgttgaag ccacatttgt gggccatgac gaagtgtttg tgtcgcctgt tttgcgcaag
-    18481 ggtccggcca agaaatagaa taagtgtata caaattttaa agtgactctt aggttttaaa
+    18421 ggtgttgaag ccacatttgt gggccatggc gaatttctta tgatttatga tttttattat
+    18481 taaataagtt ataaaaaaaa taagtgtata caaattttaa agtgactctt aggttttaaa
     18541 acgaaaattc ttattcttga gtaactcttt cctgtaggtc aggttgcttt ctcaggtata
     18601 gcatgaggtc gctcttattg accacacctc taccggcatg cctctcaaat cttttagcgc
     18661 caaggactcc aactaattgt atcttgaatt tgcctttacg atccgtttgt ccagtcacgg
@@ -481,7 +481,7 @@ ORIGIN
     18901 gacttcagag aatgaaaaaa aaaaaaggta catcacagat ggggttcagg tttgctacaa
     18961 ttgcagggag cctgtcacat ataaatagac ctccagtgat gatatctttc agtcttcaaa
     19021 cgtctcttgt cacagttctg gtcgttctat atcacatctc tcttggttct acttattgtc
-    19081 tataatatca agctacagca agcatacaat caactatcta ccataccata atacacatct
+    19081 tataataatg gcggagaaca gaaaagaatt cgagttcaag actattgatg gcctgactct
     19141 acgtggatgc atgtttctcg gtcccaaggg cggtcctgct atcattgtca acggtgcctt
     19201 caactgcccc aaggaaatat tcgcacttga tgttgcagaa tggtttggaa agcatggcgt
     19261 aacggctctg gcctatgacg ctcgtactct aggtctgagc gatggcatgc ctcgaaacga
@@ -495,8 +495,8 @@ ORIGIN
     19741 gagcttctat cgccatgcaa agtggaagcc aatgcacatt tttgaatctg ttagtcctac
     19801 tccggtcatg attttgaccc ccgagaagga tgagattgtg gcgccggagc tgcagcggaa
     19861 gatctttgaa agtatgaatt cgaagctgaa gaggcatgag attgtcaagg ggaaagggca
-    19921 tgcagacttt ttggctaatg ttagtcttga taaggtgttg ggagggcagt tggagttctt
-    19981 gaaggaggtt tttgtttttt aaacattcac gccctcctcc cacatccgct ctaaccgaaa
+    19921 tgcagacttt ttggctaatg ttagtcttga taacaggccc cttttccttt gtcgatatca
+    19981 tgtaattagt tatgtcacgc ttacattcac gccctcctcc cacatccgct ctaaccgaaa
     20041 aggaaggagt tagacaacct gaagtctagg tccctattta ttttttttaa tagttatgtt
     20101 agtattaaga acgttattta tatttcaaat ttttcttttt tttctgtaca aacgcgtgta
     20161 cgcatgtaac attatactga aaaccttgct tgagaaggtt ttgggacgct cgaaggcttt

@@ -7,49 +7,49 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..501
+     Promoter        2..451
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..1370
+     CDS             452..1320
                      /locus_tag="KU21_DS19_7112_Cyclase_OH_added"
-     Terminator      1371..1786
+     Terminator      1321..1786
                      /locus_tag="tADH2"
-     Promoter        1787..2286
+     Promoter        1787..2236
                      /locus_tag="pADH2_bayanus"
-     CDS             2287..3920
+     CDS             2237..3870
                      /locus_tag="KU21_DS19_7113_P450_OH_added"
-     Terminator      3921..4252
+     Terminator      3871..4252
                      /locus_tag="tPGI1"
      Resistor        4253..5407
                      /locus_tag="Ura3"
-     Promoter        5408..5907
+     Promoter        5408..5857
                      /locus_tag="pPCK1"
-     CDS             5908..7481
+     CDS             5858..7431
                      /locus_tag="KU21_DS19_7108_P450_OH_added"
-     Terminator      7482..7831
+     Terminator      7432..7831
                      /locus_tag="tENO2"
-     Promoter        7832..8331
+     Promoter        7832..8281
                      /locus_tag="pMLS1"
-     CDS             8332..9158
+     CDS             8282..9108
                      /locus_tag="KU21_DS19_7109_MT_OH_added"
-     Terminator      9159..9574
+     Terminator      9109..9574
                      /locus_tag="tADH2"
-     Promoter        9575..10074
+     Promoter        9575..10024
                      /locus_tag="pADH2_paradoxus"
-     CDS             10075..12065
+     CDS             10025..12015
                      /locus_tag="KU21_DS19_7111_GMC_oxido_OH_added"
-     Terminator      12066..12208
+     Terminator      12016..12208
                      /locus_tag="tADH1"
-     Promoter        12209..12704
+     Promoter        12209..12654
                      /locus_tag="pADH2_kudriavzevii"
-     CDS             12705..13771
+     CDS             12655..13721
                      /locus_tag="KU21_DS19_7114_AK_reductase_OH_added"
-     Terminator      13772..13996
+     Terminator      13722..13996
                      /locus_tag="tCYC1"
-     Promoter        13997..14496
+     Promoter        13997..14446
                      /locus_tag="plCL1"
-     CDS             14497..15641
+     CDS             14447..15591
                      /locus_tag="KU21_DS19_7110_Hyp_OH_added"
-     Terminator      15642..16091
+     Terminator      15592..16091
                      /locus_tag="tTEF1"
      Backbone        16092..19981
                      /locus_tag="pCHINT2A"
@@ -205,8 +205,8 @@ ORIGIN
      8881 ggaaggtcac aattccgatt tcgggaaaca gcgaagaccc cgaggagaac aaactcgggc
      8941 tctcttggaa ggtcaatatg ctccgcgtgg cccgtgactt gccgacgcgt ttttccgatc
      9001 agggtatcac catggaggtt gcggagaagc acctcgaaga gttggtggat ccagcgcgta
-     9061 gcatcacaac agatatgtac ttctcctggt cccgtaagcg ggtgtagatt taactcctta
-     9121 agttacttta atgatttagt ttttattatt aataatttat attagtatat agcatcttta
+     9061 gcatcacaac agatatgtac ttctcctggt cccgtaagcg ggtgtaggcg gatctcttat
+     9121 gtctttacga tttatagttt tcattatcaa gtatgcctat attagtatat agcatcttta
      9181 gatgacagtg ttcgaagttt cacgaataaa agataatatt ctactttttg ctcccaccgc
      9241 gtttgctagc acgagtgaac accatccctc gcctgtgagt tgtacccatt cctctaaact
      9301 gtagacatgg tagcttcagc agtgttcgtt atgtacggca tcctccaaca aacagtcggt

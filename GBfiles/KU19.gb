@@ -7,37 +7,37 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..501
+     Promoter        2..451
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..1430
+     CDS             452..1380
                      /locus_tag="KU19_SH16_10821_Cyclase_OH_added"
-     Terminator      1431..1846
+     Terminator      1381..1846
                      /locus_tag="tADH2"
-     Promoter        1847..2346
+     Promoter        1847..2296
                      /locus_tag="pADH2_bayanus"
-     CDS             2347..3920
+     CDS             2297..3870
                      /locus_tag="KU19_SH16_10820_P450_OH_added"
-     Terminator      3921..4252
+     Terminator      3871..4252
                      /locus_tag="tPGI1"
      Resistor        4253..5407
                      /locus_tag="Ura3"
-     Promoter        5408..5907
+     Promoter        5408..5857
                      /locus_tag="pPCK1"
-     CDS             5908..7436
+     CDS             5858..7386
                      /locus_tag="KU19_SH16_10822_P450_OH_added"
-     Terminator      7437..7786
+     Terminator      7387..7786
                      /locus_tag="tENO2"
-     Promoter        7787..8286
+     Promoter        7787..8236
                      /locus_tag="pMLS1"
-     CDS             8287..9359
+     CDS             8237..9309
                      /locus_tag="KU19_SH16_10823_AK_reductase_OH_added"
-     Terminator      9360..9775
+     Terminator      9310..9775
                      /locus_tag="tADH2"
-     Promoter        9776..10275
+     Promoter        9776..10225
                      /locus_tag="pADH2_paradoxus"
-     CDS             10276..11840
+     CDS             10226..11790
                      /locus_tag="KU19_SH16_10819_QacA_MFS_OH_added"
-     Terminator      11841..12290
+     Terminator      11791..12290
                      /locus_tag="tTEF1"
      Backbone        12291..16180
                      /locus_tag="pCHINT2A"
@@ -197,7 +197,7 @@ ORIGIN
      9121 cgagcaagca ctcgtggaag atgtcccaag ttgcacttgc ttggtctctt acaaaggtct
      9181 cgagccccat cgtcggagct aatacatccg agagggtcaa ggaagcagtt ttggcaggga
      9241 ggagactcag tcttgaggac gttgagtatc tcgaggaacc gtacgagttt tgcgctccga
-     9301 ggttctaaat ttaactcctt aagttacttt aatgatttag tttttattat taataattta
+     9301 ggttctaagc ggatctctta tgtctttacg atttatagtt ttcattatca agtatgccta
      9361 tattagtata tagcatcttt agatgacagt gttcgaagtt tcacgaataa aagataatat
      9421 tctacttttt gctcccaccg cgtttgctag cacgagtgaa caccatccct cgcctgtgag
      9481 ttgtacccat tcctctaaac tgtagacatg gtagcttcag cagtgttcgt tatgtacggc

@@ -7,11 +7,11 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        2..534
+     Promoter        2..484
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             535..8501
+     CDS             485..8451
                      /locus_tag="KU30_TV43_5582_PKS_OH_added_1"
-     Terminator      8502..8951
+     Terminator      8452..8951
                      /locus_tag="tTEF1"
      Backbone        8952..14553
                      /locus_tag="pCHINT2AL"
@@ -269,31 +269,31 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     Promoter        1..500
+     Promoter        1..450
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..1420
+     CDS             451..1370
                      /locus_tag="KU30_TV43_5580_esterase_OH_added"
-     Terminator      1421..1836
+     Terminator      1371..1836
                      /locus_tag="tADH2"
-     Promoter        1837..2336
+     Promoter        1837..2286
                      /locus_tag="pADH2_bayanus"
-     CDS             2337..3970
+     CDS             2287..3920
                      /locus_tag="KU30_TV43_5581_P450_OH_added"
-     Terminator      3971..4302
+     Terminator      3921..4302
                      /locus_tag="tPGI1"
      Resistor        4303..5457
                      /locus_tag="Ura3"
-     Promoter        5458..5957
+     Promoter        5458..5907
                      /locus_tag="pPCK1"
-     CDS             5958..7510
+     CDS             5908..7460
                      /locus_tag="KU30_TV43_5584_P450_OH_added"
-     Terminator      7511..7860
+     Terminator      7461..7860
                      /locus_tag="tENO2"
-     Promoter        7861..8360
+     Promoter        7861..8310
                      /locus_tag="pMLS1"
-     CDS             8361..9277
+     CDS             8311..9227
                      /locus_tag="KU30_TV43_5583_OMT_OH_added"
-     Terminator      9278..9727
+     Terminator      9228..9727
                      /locus_tag="tTEF1"
      Backbone        9728..13617
                      /locus_tag="pCHINT2A"
