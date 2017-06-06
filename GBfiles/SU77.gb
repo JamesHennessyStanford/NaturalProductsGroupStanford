@@ -9,9 +9,9 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             535..3142
+     CDS             535..3092
                      /locus_tag="EGP84621.1_pks_OH_added_1"
-     Terminator      3143..3592
+     Terminator      3093..3592
                      /locus_tag="tTEF1"
      Backbone        3593..7481
                      /locus_tag="pCHINT3A"
@@ -67,8 +67,8 @@ ORIGIN
      2881 tgcttgcgga tgactatcgt gaaagcctgc ggcatctcgc tgtcagcacg aaagtcaatc
      2941 gcaatgcgag cgttgccatg tattccagcg tcaccggcgc tcttgtacgg ccggaagatc
      3001 ttggtgctga ttattgggtg caaaacatgg tctcgcccgt gctgttcgat gccgctgtgc
-     3061 agtccgccct tcaacgagca ggatcaggac gtcgtcgcat aacacaggtg gttgaaattg
-     3121 gtcctgcggc cgcgctagcg gtctattagt taattttttg taatttatcc ttatatatag
+     3061 agtccgccct tcaacgagca ggatcaggac gggagattga taagactttt ctagttgcat
+     3121 atcttttata tttaaatctt atctattagt taattttttg taatttatcc ttatatatag
      3181 tctggttatt ctaaaatatc atttcagtat ctaaaaattc ccctcttttt tcagttatat
      3241 cttaacaggc gacagtccaa atgttgattt atcccagtcc gattcatcag ggttgtgaag
      3301 cattttgtca atggtcgaaa tcacatcagt aatagtgcct cttacttgcc tcatagaatt
@@ -153,9 +153,9 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             534..8408
+     CDS             534..8358
                      /locus_tag="EGP84621.1_pks_OH_added_2_gblock1"
-     Terminator      8409..8858
+     Terminator      8359..8858
                      /locus_tag="tTEF1"
      Backbone        8859..14460
                      /locus_tag="pCHINT2AL"
@@ -413,15 +413,15 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..1285
+     CDS             501..1235
                      /locus_tag="EGP84443.1_esterase_lipas_OH_added"
-     Terminator      1286..1701
+     Terminator      1236..1701
                      /locus_tag="tADH2"
      Promoter        1702..2201
                      /locus_tag="pADH2_bayanus"
-     CDS             2202..9841
+     CDS             2202..9791
                      /locus_tag="EGP84444.1_ERMB_MFS_OH_added"
-     Terminator      9842..10291
+     Terminator      9792..10291
                      /locus_tag="tTEF1"
      Resistor        10292..11446
                      /locus_tag="Ura3"

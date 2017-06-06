@@ -9,9 +9,9 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        2..501
                      /locus_tag="pADH2_cerevisiae"
-     CDS             502..3853
+     CDS             502..3803
                      /locus_tag="KDB38475.1_NRPS_OH_added_1"
-     Terminator      3854..4269
+     Terminator      3804..4269
                      /locus_tag="tADH2"
      Backbone        4270..8159
                      /locus_tag="pCHINT2A"
@@ -79,8 +79,8 @@ ORIGIN
      3601 agagcatgac atctacatta gagtgcttga tgggccaaag acgcttagaa ttgtcctgga
      3661 gctttgggag gatcgtatct caaggaccca aggcgaggag gtggcagcct ttttcgctgt
      3721 tgcaatatcc gcagttattt ttgctcctga agaggatatc ttgagcctta ccttgggtgg
-     3781 gcaatacaag ttcgcctact gaggagattg ataagacttt tctagttgca tatcttttat
-     3841 atttaaatct tatatattag tatatagcat ctttagatga cagtgttcga agtttcacga
+     3781 gcaatacaag ttcgcctact gagcggatct cttatgtctt tacgatttat agttttcatt
+     3841 atcaagtatg cctatattag tatatagcat ctttagatga cagtgttcga agtttcacga
      3901 ataaaagata atattctact ttttgctccc accgcgtttg ctagcacgag tgaacaccat
      3961 ccctcgcctg tgagttgtac ccattcctct aaactgtaga catggtagct tcagcagtgt
      4021 tcgttatgta cggcatcctc caacaaacag tcggttatag tttgtcctgc tcctctgaat

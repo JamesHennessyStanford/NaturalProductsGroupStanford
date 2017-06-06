@@ -9,9 +9,9 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        2..534
                      /locus_tag="pADH2_cerevisiae_flag"
-     CDS             535..4354
+     CDS             535..4304
                      /locus_tag="KJX93290.1_pks_OH_added_1"
-     Terminator      4355..4804
+     Terminator      4305..4804
                      /locus_tag="tTEF1"
      Backbone        4805..8693
                      /locus_tag="pCHINT3A"
@@ -173,35 +173,35 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..1522
+     CDS             501..1472
                      /locus_tag="KJX93287.1_esterase_lipas_OH_added"
-     Terminator      1523..1938
+     Terminator      1473..1938
                      /locus_tag="tADH2"
      Promoter        1939..2438
                      /locus_tag="pADH2_bayanus"
-     CDS             2439..3184
+     CDS             2439..3134
                      /locus_tag="KJX93288.1_esterase_lipas_OH_added"
-     Terminator      3185..3516
+     Terminator      3135..3516
                      /locus_tag="tPGI1"
      Resistor        3516^3517
                      /locus_tag="none"
      Promoter        3517..4016
                      /locus_tag="pPCK1"
-     CDS             4017..6768
+     CDS             4017..6718
                      /locus_tag="KJX93286.1_RPE65_caroteno_OH_added"
-     Terminator      6769..7118
+     Terminator      6719..7118
                      /locus_tag="tENO2"
      Promoter        7119..7618
                      /locus_tag="pMLS1"
-     CDS             7619..10395
+     CDS             7619..10345
                      /locus_tag="KJX93293.1_CzcO_FAD_monox_OH_added"
-     Terminator      10396..10811
+     Terminator      10346..10811
                      /locus_tag="tADH2"
      Promoter        10812..11311
                      /locus_tag="pADH2_paradoxus"
-     CDS             11312..14063
+     CDS             11312..14013
                      /locus_tag="KJX93296.1_condensation_OH_added"
-     Terminator      14064..14513
+     Terminator      14014..14513
                      /locus_tag="tTEF1"
      Backbone        14514..20115
                      /locus_tag="pCHINT2AL"
@@ -317,8 +317,8 @@ ORIGIN
      6481 ggagagtctt tatgctaaca gccagagacg agtcagctgg cagcgagatg atcgcgaatc
      6541 tgtcaactta tcttaggtct cgagtcgacg tctcagacac ccagctcgcc gatctggcat
      6601 atacactctc gctcaggcgg agcatgtttg cctggacggc tgctgtcagt gccaactcca
-     6661 agcatgagtt gatcaccgcc ctcgaagaca gcagtttgaa gccaactcgt cgtcaagaat
-     6721 ctacgcggct gggtttcgtg ttcacagggc aaggctctca atggcacgag tttagaacac
+     6661 agcatgagtt gatcaccgcc ctcgaagaca gcagtttgaa gccaactcgt cgtcaagaag
+     6721 tgcttttaac taagaattat tagtcttttc tgcttatttt ttcatcatag tttagaacac
      6781 tttatattaa cgaatagttt atgaatctat ttaggtttaa aaattgatac agttttataa
      6841 gttacttttt caaagactcg tgctgtctat tgcataatgc actggaaggg gaaaaaaaag
      6901 gtgcacacgc gtggcttttt cttgaatttg cagtttgaaa aataactaca tggatgataa
@@ -378,8 +378,8 @@ ORIGIN
     10141 caacaagaca tgaatacaac tctcgccagc atataccgct tattgacagc gagagggacc
     10201 gtcttacttg tcgaaaatgc gcagactagc atgcctggag cggacgatct ggatgaaatg
     10261 cttctgcaaa atggcttcca cagtgtcggc aaaccttcaa actgcgagaa cggacgtctg
-    10321 attctggcag tcaagaacca ggaagcccac aaactgtgca atgcagtgtc gattctccat
-    10381 ggaagcaaca gcccttatat tagtatatag catctttaga tgacagtgtt cgaagtttca
+    10321 attctggcag tcaagaacca ggaaggcgga tctcttatgt ctttacgatt tatagttttc
+    10381 attatcaagt atgcctatat tagtatatag catctttaga tgacagtgtt cgaagtttca
     10441 cgaataaaag ataatattct actttttgct cccaccgcgt ttgctagcac gagtgaacac
     10501 catccctcgc ctgtgagttg tacccattcc tctaaactgt agacatggta gcttcagcag
     10561 tgttcgttat gtacggcatc ctccaacaaa cagtcggtta tagtttgtcc tgctcctctg
@@ -554,29 +554,29 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
-     CDS             501..3108
+     CDS             501..3058
                      /locus_tag="KJX93291.1_alkaline_serin_OH_added"
-     Terminator      3109..3524
+     Terminator      3059..3524
                      /locus_tag="tADH2"
      Promoter        3525..4024
                      /locus_tag="pADH2_bayanus"
-     CDS             4025..11899
+     CDS             4025..11849
                      /locus_tag="KJX93295.1_glutaminase_OH_added"
-     Terminator      11900..12231
+     Terminator      11850..12231
                      /locus_tag="tPGI1"
      Resistor        12232..13386
                      /locus_tag="Ura3"
      Promoter        13387..13886
                      /locus_tag="pPCK1"
-     CDS             13887..19128
+     CDS             13887..19078
                      /locus_tag="KJX93285.1_RTA1_OH_added"
-     Terminator      19129..19478
+     Terminator      19079..19478
                      /locus_tag="tENO2"
      Promoter        19479..19978
                      /locus_tag="pMLS1"
-     CDS             19979..22586
+     CDS             19979..22536
                      /locus_tag="KJX93294.1_hyp_OH_added"
-     Terminator      22587..23036
+     Terminator      22537..23036
                      /locus_tag="tTEF1"
      Backbone        23037..26926
                      /locus_tag="pCHINT2A"
@@ -631,8 +631,8 @@ ORIGIN
      2821 tggcatatca ttccaagcac atgcagctgc ttgcggatga ctatcgtgaa agcctgcggc
      2881 atctcgctgt cagcacgaaa gtcaatcgca atgcgagcgt tgccatgtat tccagcgtca
      2941 ccggcgctct tgtacggccg gaagatcttg gtgctgatta ttgggtgcaa aacatggtct
-     3001 cgcccgtgct gttcgatgcc gctgtgcagt ccgcccttca acgagcagga tcaggacgtc
-     3061 gtcgcataac acaggtggtt gaaattggtc ctgcggccgc gctagcggta tattagtata
+     3001 cgcccgtgct gttcgatgcc gctgtgcagt ccgcccttca acgagcagga tcaggacggc
+     3061 ggatctctta tgtctttacg atttatagtt ttcattatca agtatgccta tattagtata
      3121 tagcatcttt agatgacagt gttcgaagtt tcacgaataa aagataatat tctacttttt
      3181 gctcccaccg cgtttgctag cacgagtgaa caccatccct cgcctgtgag ttgtacccat
      3241 tcctctaaac tgtagacatg gtagcttcag cagtgttcgt tatgtacggc atcctccaac
@@ -778,8 +778,8 @@ ORIGIN
     11641 tggcgccgga ggacatcgac atctctctcc cgacgtcctc gtacggcgtc gactcgctcg
     11701 tggcggcgga actacgcaat tggtgtgcgg cggaagtcga agcggccatg tctgttttcg
     11761 agctgctgga tgctaagcct attggtcagc tcgcggtcga tattgcgagg aagagtgctg
-    11821 tgctttcgga gacggttagg cgtgagtagg gagattgata agacttttct agttgcatat
-    11881 cttttatatt taaatcttag caaagatacg taaattttgc ttatattatt atacacatat
+    11821 tgctttcgga gacggttagg cgtgagtaga caaatcgctc ttaaatatat acctaaagaa
+    11881 cattaaagct atattataag caaagatacg taaattttgc ttatattatt atacacatat
     11941 catatttcta tatttttaag atttggttat ataatgtacg taatgcaaag gaaataaatt
     12001 ttatacatta ttgaacagcg tccaagtaac tacattatgt gcactaatag tttagcgtcg
     12061 tgaagacttt attgtgtcgc gaaaagtaaa aattttaaaa attagagcac cttgaacttg
@@ -898,8 +898,8 @@ ORIGIN
     18841 gacagccaag ctcgccaagt cgctcatgat ggcgccggag gacatcgaca tctctctccc
     18901 gacgtcctcg tacggcgtcg actcgctcgt ggcggcggaa ctacgcaatt ggtgtgcggc
     18961 ggaagtcgaa gcggccatgt ctgttttcga gctgctggat gctaagccta ttggtcagct
-    19021 cgcggtcgat attgcgagga agagtgctgt gctttcggag acggttaggc gtgagtaggg
-    19081 agattgataa gacttttcta gttgcatatc ttttatattt aaatcttaag tttagaacac
+    19021 cgcggtcgat attgcgagga agagtgctgt gctttcggag acggttaggc gtgagtagag
+    19081 tgcttttaac taagaattat tagtcttttc tgcttatttt ttcatcatag tttagaacac
     19141 tttatattaa cgaatagttt atgaatctat ttaggtttaa aaattgatac agttttataa
     19201 gttacttttt caaagactcg tgctgtctat tgcataatgc actggaaggg gaaaaaaaag
     19261 gtgcacacgc gtggcttttt cttgaatttg cagtttgaaa aataactaca tggatgataa
