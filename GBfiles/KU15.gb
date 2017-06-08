@@ -224,10 +224,10 @@ ORIGIN
     10741 tgtcaattat attataatac actatgcaga cccaccacca gacctcgcag tcgttgaatg
     10801 cgttgctggc gccattcagc aagcagttcc agaatggcct cctgcggcag ggtacatcgt
     10861 ctgtgccatt gctgacgacc atgtcgcaat actacatgct ccagccttcc aaacgactca
-    10921 ggccttgcct catcctcctg atgtgtcagg ccacgaacgg gcttggctca gactgggaga
+    10921 ggccttgcct catcctcctg atgtgtcagg ccacgaacgg gcttggctca gactgggaaa
     10981 ccaagagcac gagcttgtgg gtcggctgct cagccgaaac tgacgctctc gagaacatac
     11041 ttcctgagca gctgtcgctc gcccaggtgt ttgagattct gcacgtcgcg tctcttctgc
-    11101 acgacgatgt catcgacaac gcggagaccc gccgcgggtc cccatccgtt cccgccctct
+    11101 acgacgatgt catcgacaac gcggagacgc gccgcgggtc cccatccgtt cccgccctct
     11161 ttgggaaccg tcgcgcgatt ctcgcaggag acttcctcct cggtcgcgcc atgcgcctcg
     11221 tcgggacgct cggctcgcca gaggtcatgt cccttgtcgc agaggtcttc tgcacactcg
     11281 tcgagggcga actgctccag gcaggctaca ccgacctgtc cctcggcagt gctgtcgtcg
@@ -408,7 +408,7 @@ ORIGIN
      3121 atagagtggc cattgccacc ctgtttatct caaaatctgt cttgttagtg gtcttctccc
      3181 tttttcaggt tacaattctc ttgtttctac ttagtatata agtatatcaa gctatattaa
      3241 gcatactatc aactgtcaac tctatcctca aaatacaata caaaatgggc tatggtcact
-     3301 cgagacttct tgcaactgat ccatcgcaat acgctacgcc gtggtctcct gctgatggtg
+     3301 cgagacttct tgcaactgat ccatcgcaat acgctacgcc gtggtcccct gctgatggtg
      3361 ctgcggtgat acctcctgga gaatggaatt cgttcgacta tgtcatagtt ggtggcggga
      3421 ctgcgggctg tgtgctggcc tctcggttgt ctgaagatcc cagcgtgacg gtacttctca
      3481 tagaggctgg aacgagtcac cgaagcagtt tctttagccg catacccatg ggtttccccc
@@ -433,7 +433,7 @@ ORIGIN
      4621 gctctgttct gctgaaaccg tgcagcaaag ggtcaattga actacgttcc gcaagtgtgt
      4681 acgatcaccc tatcattgat cccaactacc tctcgaatga gagcgattgg aacgtcatga
      4741 tcagggcgac acggctcttg cttcggcttg caagggctcc gccattgtcc gacgcgctgg
-     4801 accttcggac gctgtccgca cccggagacc cgctattctg gccaggcgat gcggacccgg
+     4801 accttcggac gctgtccgca cccggtgacc cgctattctg gccaggcgat gcggacccgg
      4861 agaagatcat ggacgaagag atcaaagcag tcattcggcg ctacgggcaa tccgcatggc
      4921 acccgagaca gacgtcttct gcgcgaatgg gctcttctcc gcatgacagc gtggttgata
      4981 tcgagctgcg ggtgcattgc gtgcggggcc tgagagtcgt ggacgcatcg agtttccccg
