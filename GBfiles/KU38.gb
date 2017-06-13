@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..6908
-                     /locus_tag="KU38_KIW01754.1_PKS_OH_added_1"
+                     /locus_tag="KU38_KIW01754.1_PKS"
      Terminator      6909..7408
                      /locus_tag="tTEF1"
      Backbone        7409..13010
@@ -246,13 +246,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1859
-                     /locus_tag="KU38_KIW01747.1_metallo_h_OH_added"
+                     /locus_tag="KU38_KIW01747.1_metallo_hydrolase"
      Terminator      1860..2325
                      /locus_tag="tADH2"
      Promoter        2326..2825
                      /locus_tag="pADH2_bayanus"
      CDS             2826..4508
-                     /locus_tag="KU38_KIW01748.1_halogenas_OH_added"
+                     /locus_tag="KU38_KIW01748.1_halogenase"
      Terminator      4509..4890
                      /locus_tag="tPGI1"
      Resistor        4891..6045
@@ -260,31 +260,31 @@ FEATURES             Location/Qualifiers
      Promoter        6046..6545
                      /locus_tag="pPCK1"
      CDS             6546..8099
-                     /locus_tag="KU38_KIW01749.1_P450_OH_added"
+                     /locus_tag="KU38_KIW01749.1_P450"
      Terminator      8100..8499
                      /locus_tag="tENO2"
      Promoter        8500..8999
                      /locus_tag="pMLS1"
      CDS             9000..10286
-                     /locus_tag="KU38_KIW01753.1_monoxygen_OH_added"
+                     /locus_tag="KU38_KIW01753.1_monoxygenase"
      Terminator      10287..10686
                      /locus_tag="tTDH2"
      Promoter        10687..11186
                      /locus_tag="pADH2_paradoxus"
      CDS             11187..12419
-                     /locus_tag="KU38_KIW01751.1_OMT_OH_added"
+                     /locus_tag="KU38_KIW01751.1_OMT"
      Terminator      12420..12612
                      /locus_tag="tADH1"
      Promoter        12613..13108
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13109..15331
-                     /locus_tag="KU38_KIW01752.1_MHR_TF_OH_added"
+                     /locus_tag="KU38_KIW01752.1_MHR_TF"
      Terminator      15332..15606
                      /locus_tag="tCYC1"
      Promoter        15607..16106
                      /locus_tag="plCL1"
      CDS             16107..16814
-                     /locus_tag="KU38_KIW01750.1_cupin_lik_OH_added"
+                     /locus_tag="KU38_KIW01750.1_cupin_like"
      Terminator      16815..17314
                      /locus_tag="tTEF1"
      Backbone        17315..21204

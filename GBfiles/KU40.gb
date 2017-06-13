@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8069
-                     /locus_tag="KU40_KFA56035.1_PKS_OH_added_1"
+                     /locus_tag="KU40_KFA56035.1_PKS"
      Terminator      8070..8569
                      /locus_tag="tTEF1"
      Backbone        8570..14171
@@ -266,13 +266,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..3236
-                     /locus_tag="KU40_KFA56229.1_alkaline__OH_added"
+                     /locus_tag="KU40_KFA56229.1_alkaline_serine_protease"
      Terminator      3237..3702
                      /locus_tag="tADH2"
      Promoter        3703..4202
                      /locus_tag="pADH2_bayanus"
      CDS             4203..5060
-                     /locus_tag="KU40_KFA56046.1_phytanoly_OH_added"
+                     /locus_tag="KU40_KFA56046.1_phytanoly-CoA_dioxygenase"
      Terminator      5061..5442
                      /locus_tag="tPGI1"
      Resistor        5443..6597
@@ -280,31 +280,31 @@ FEATURES             Location/Qualifiers
      Promoter        6598..7097
                      /locus_tag="pPCK1"
      CDS             7098..7886
-                     /locus_tag="KU40_KFA56048.1_NmrA_like_OH_added"
+                     /locus_tag="KU40_KFA56048.1_NmrA_like"
      Terminator      7887..8286
                      /locus_tag="tENO2"
      Promoter        8287..8786
                      /locus_tag="pMLS1"
      CDS             8787..10205
-                     /locus_tag="KU40_KFA56160.1_hyp_OH_added"
+                     /locus_tag="KU40_KFA56160.1_hyp"
      Terminator      10206..10605
                      /locus_tag="tTDH2"
      Promoter        10606..11105
                      /locus_tag="pADH2_paradoxus"
      CDS             11106..12101
-                     /locus_tag="KU40_KFA56190.1_NmrA_like_OH_added"
+                     /locus_tag="KU40_KFA56190.1_NmrA_like"
      Terminator      12102..12294
                      /locus_tag="tADH1"
      Promoter        12295..12790
                      /locus_tag="pADH2_kudriavzevii"
      CDS             12791..13123
-                     /locus_tag="KU40_KFA56227.1_hyp_OH_added"
+                     /locus_tag="KU40_KFA56227.1_hyp"
      Terminator      13124..13398
                      /locus_tag="tCYC1"
      Promoter        13399..13898
                      /locus_tag="plCL1"
      CDS             13899..15698
-                     /locus_tag="KU40_KFA56040.1_hyp_OH_added"
+                     /locus_tag="KU40_KFA56040.1_hyp"
      Terminator      15699..16198
                      /locus_tag="tTEF1"
      Backbone        16199..20088

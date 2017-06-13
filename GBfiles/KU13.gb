@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1376
-                     /locus_tag="KU13_CeS8_5906_Cyclase_OH_added"
+                     /locus_tag="KU13_CeS8_5906_Cyclase"
      Terminator      1377..1842
                      /locus_tag="tADH2"
      Promoter        1843..2342
                      /locus_tag="pADH2_bayanus"
      CDS             2343..3875
-                     /locus_tag="KU13_CeS8_5905_P450_OH_added"
+                     /locus_tag="KU13_CeS8_5905_P450"
      Terminator      3876..4257
                      /locus_tag="tPGI1"
      Resistor        4258..5412
@@ -24,19 +24,19 @@ FEATURES             Location/Qualifiers
      Promoter        5413..5912
                      /locus_tag="pPCK1"
      CDS             5913..7523
-                     /locus_tag="KU13_CeS8_5911_P450_OH_added"
+                     /locus_tag="KU13_CeS8_5911_P450"
      Terminator      7524..7923
                      /locus_tag="tENO2"
      Promoter        7924..8423
                      /locus_tag="pMLS1"
      CDS             8424..10232
-                     /locus_tag="KU13_CeS8_5904_choline_DH_OH_added"
+                     /locus_tag="KU13_CeS8_5904_choline_DH"
      Terminator      10233..10632
                      /locus_tag="tTDH2"
      Promoter        10633..11132
                      /locus_tag="pADH2_paradoxus"
      CDS             11133..13223
-                     /locus_tag="KU13_CeS8_5910_halogenase_OH_added"
+                     /locus_tag="KU13_CeS8_5910_halogenase"
      Terminator      13224..13723
                      /locus_tag="tTEF1"
      Backbone        13724..17613
@@ -349,13 +349,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..3344
-                     /locus_tag="KU13_CeS8_5907_AMP_ligase_OH_added"
+                     /locus_tag="KU13_CeS8_5907_AMP_ligase"
      Terminator      3345..3810
                      /locus_tag="tADH2"
      Promoter        3811..4310
                      /locus_tag="pADH2_bayanus"
      CDS             4311..4991
-                     /locus_tag="KU13_CeS8_5909_superoxide_dism_OH_added"
+                     /locus_tag="KU13_CeS8_5909_superoxide_dismutase"
      Terminator      4992..5373
                      /locus_tag="tPGI1"
      Resistor        5374..6478
@@ -363,13 +363,13 @@ FEATURES             Location/Qualifiers
      Promoter        6479..6978
                      /locus_tag="pPCK1"
      CDS             6979..8577
-                     /locus_tag="KU13_CeS8_5908_MFS_OH_added"
+                     /locus_tag="KU13_CeS8_5908_MFS"
      Terminator      8578..8977
                      /locus_tag="tENO2"
      Promoter        8978..9477
                      /locus_tag="pMLS1"
      CDS             9478..11976
-                     /locus_tag="KU13_CeS8_5912_MFS_OH_added"
+                     /locus_tag="KU13_CeS8_5912_MFS"
      Terminator      11977..12476
                      /locus_tag="tTEF1"
      Backbone        12477..16365

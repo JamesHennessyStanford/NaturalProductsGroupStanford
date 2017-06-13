@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..10127
-                     /locus_tag="KU41_KIL85244.1_PKS_OH_added_1"
+                     /locus_tag="KU41_KIL85244.1_PKS"
      Terminator      10128..10627
                      /locus_tag="tTEF1"
      Backbone        10628..16229
@@ -300,13 +300,14 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2087
-                     /locus_tag="KU41_KIL85236.1_phenylala_OH_added"
+                     /locus_tag="KU41_KIL85236.1_phenylalanine_specific_permease
+                     "
      Terminator      2088..2553
                      /locus_tag="tADH2"
      Promoter        2554..3053
                      /locus_tag="pADH2_bayanus"
      CDS             3054..4568
-                     /locus_tag="KU41_KIL85237.1_aldehyde__OH_added"
+                     /locus_tag="KU41_KIL85237.1_aldehyde_DH"
      Terminator      4569..4950
                      /locus_tag="tPGI1"
      Resistor        4951..6105
@@ -314,25 +315,25 @@ FEATURES             Location/Qualifiers
      Promoter        6106..6605
                      /locus_tag="pPCK1"
      CDS             6606..8072
-                     /locus_tag="KU41_KIL85238.1_DH_OH_added"
+                     /locus_tag="KU41_KIL85238.1_DH"
      Terminator      8073..8472
                      /locus_tag="tENO2"
      Promoter        8473..8972
                      /locus_tag="pMLS1"
      CDS             8973..9200
-                     /locus_tag="KU41_KIL85239.1_hyp_OH_added"
+                     /locus_tag="KU41_KIL85239.1_hyp"
      Terminator      9201..9600
                      /locus_tag="tTDH2"
      Promoter        9601..10100
                      /locus_tag="pADH2_paradoxus"
      CDS             10101..10868
-                     /locus_tag="KU41_KIL85240.1_hyp_OH_added"
+                     /locus_tag="KU41_KIL85240.1_hyp"
      Terminator      10869..11061
                      /locus_tag="tADH1"
      Promoter        11062..11557
                      /locus_tag="pADH2_kudriavzevii"
      CDS             11558..13186
-                     /locus_tag="KU41_KIL85241.1_hyp_OH_added"
+                     /locus_tag="KU41_KIL85241.1_hyp"
      Terminator      13187..13686
                      /locus_tag="tTEF1"
      Backbone        13687..17576
@@ -644,13 +645,14 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1604
-                     /locus_tag="KU41_KIL85242.1_1-amino_c_OH_added"
+                     /locus_tag="KU41_KIL85242.1_1-amino_cyclopropane-1-carboxyl
+                     ate_oxidase"
      Terminator      1605..2070
                      /locus_tag="tADH2"
      Promoter        2071..2570
                      /locus_tag="pADH2_bayanus"
      CDS             2571..4073
-                     /locus_tag="KU41_KIL85243.1_hyp_OH_added"
+                     /locus_tag="KU41_KIL85243.1_hyp"
      Terminator      4074..4455
                      /locus_tag="tPGI1"
      Resistor        4456..5560
@@ -658,25 +660,25 @@ FEATURES             Location/Qualifiers
      Promoter        5561..6060
                      /locus_tag="pPCK1"
      CDS             6061..8754
-                     /locus_tag="KU41_KIL85245.1_hyp_OH_added"
+                     /locus_tag="KU41_KIL85245.1_hyp"
      Terminator      8755..9154
                      /locus_tag="tENO2"
      Promoter        9155..9654
                      /locus_tag="pMLS1"
      CDS             9655..10815
-                     /locus_tag="KU41_KIL85246.1_aromatic__OH_added"
+                     /locus_tag="KU41_KIL85246.1_aromatic_dioxygenase"
      Terminator      10816..11215
                      /locus_tag="tTDH2"
      Promoter        11216..11715
                      /locus_tag="pADH2_paradoxus"
      CDS             11716..12963
-                     /locus_tag="KU41_KIL85247.1_peptidase_OH_added"
+                     /locus_tag="KU41_KIL85247.1_peptidase"
      Terminator      12964..13156
                      /locus_tag="tADH1"
      Promoter        13157..13652
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13653..14057
-                     /locus_tag="KU41_KIL85248.1_kinase_OH_added"
+                     /locus_tag="KU41_KIL85248.1_kinase"
      Terminator      14058..14557
                      /locus_tag="tTEF1"
      Backbone        14558..18446
@@ -1003,13 +1005,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2096
-                     /locus_tag="KU41_KIL85249.1_metallopr_OH_added"
+                     /locus_tag="KU41_KIL85249.1_metalloprotease"
      Terminator      2097..2562
                      /locus_tag="tADH2"
      Promoter        2563..3062
                      /locus_tag="pADH2_bayanus"
      CDS             3063..4202
-                     /locus_tag="KU41_KIL85250.1_BLA_OH_added"
+                     /locus_tag="KU41_KIL85250.1_BLA"
      Terminator      4203..4584
                      /locus_tag="tPGI1"
      Resistor        4585..5689
@@ -1017,19 +1019,19 @@ FEATURES             Location/Qualifiers
      Promoter        5690..6189
                      /locus_tag="pPCK1"
      CDS             6190..7020
-                     /locus_tag="KU41_KIL85251.1_SDR_OH_added"
+                     /locus_tag="KU41_KIL85251.1_SDR"
      Terminator      7021..7420
                      /locus_tag="tENO2"
      Promoter        7421..7920
                      /locus_tag="pMLS1"
      CDS             7921..8916
-                     /locus_tag="KU41_KIL85252.1_AK_reduct_OH_added"
+                     /locus_tag="KU41_KIL85252.1_AK_reductase"
      Terminator      8917..9316
                      /locus_tag="tTDH2"
      Promoter        9317..9816
                      /locus_tag="pADH2_paradoxus"
      CDS             9817..10959
-                     /locus_tag="KU41_KIL85253.1_metallope_OH_added"
+                     /locus_tag="KU41_KIL85253.1_metallopeptidase"
      Terminator      10960..11459
                      /locus_tag="tTEF1"
      Backbone        11460..15348

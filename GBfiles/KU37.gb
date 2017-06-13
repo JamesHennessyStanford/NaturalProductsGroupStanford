@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..6875
-                     /locus_tag="KU37_KFY01909.1_PKS_OH_added_1"
+                     /locus_tag="KU37_KFY01909.1_PKS"
      Terminator      6876..7375
                      /locus_tag="tTEF1"
      Backbone        7376..12977
@@ -246,13 +246,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2597
-                     /locus_tag="KU37_KFY01907.1_DH_OH_added"
+                     /locus_tag="KU37_KFY01907.1_DH"
      Terminator      2598..3063
                      /locus_tag="tADH2"
      Promoter        3064..3563
                      /locus_tag="pADH2_bayanus"
      CDS             3564..5480
-                     /locus_tag="KU37_KFY01908.1_ABC_tranp_OH_added"
+                     /locus_tag="KU37_KFY01908.1_ABC_tranporter"
      Terminator      5481..5862
                      /locus_tag="tPGI1"
      Resistor        5863..7017
@@ -260,13 +260,13 @@ FEATURES             Location/Qualifiers
      Promoter        7018..7517
                      /locus_tag="pPCK1"
      CDS             7518..8999
-                     /locus_tag="KU37_KFY01910.1_MFS_OH_added"
+                     /locus_tag="KU37_KFY01910.1_MFS"
      Terminator      9000..9399
                      /locus_tag="tENO2"
      Promoter        9400..9899
                      /locus_tag="pMLS1"
      CDS             9900..11321
-                     /locus_tag="KU37_KFY01911.1_PKc_like_OH_added"
+                     /locus_tag="KU37_KFY01911.1_PKc_like"
      Terminator      11322..11821
                      /locus_tag="tTEF1"
      Backbone        11822..15711

@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8498
-                     /locus_tag="KU29_BO23_6174_PKS_OH_added_1"
+                     /locus_tag="KU29_BO23_6174_PKS"
      Terminator      8499..8998
                      /locus_tag="tTEF1"
      Backbone        8999..14600
@@ -273,13 +273,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1355
-                     /locus_tag="KU29_BO23_6170_esterase_OH_added"
+                     /locus_tag="KU29_BO23_6170_esterase"
      Terminator      1356..1821
                      /locus_tag="tADH2"
      Promoter        1822..2321
                      /locus_tag="pADH2_bayanus"
      CDS             2322..3899
-                     /locus_tag="KU29_BO23_6173_P450_OH_added"
+                     /locus_tag="KU29_BO23_6173_P450"
      Terminator      3900..4281
                      /locus_tag="tPGI1"
      Resistor        4282..5436
@@ -287,13 +287,13 @@ FEATURES             Location/Qualifiers
      Promoter        5437..5936
                      /locus_tag="pPCK1"
      CDS             5937..7220
-                     /locus_tag="KU29_BO23_6166_ADH_OH_added"
+                     /locus_tag="KU29_BO23_6166_ADH"
      Terminator      7221..7620
                      /locus_tag="tENO2"
      Promoter        7621..8120
                      /locus_tag="pMLS1"
      CDS             8121..9740
-                     /locus_tag="KU29_BO23_6167_aminotransferas_OH_added"
+                     /locus_tag="KU29_BO23_6167_aminotransferase_3"
      Terminator      9741..10240
                      /locus_tag="tTEF1"
      Backbone        10241..14130
@@ -548,13 +548,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1673
-                     /locus_tag="KU29_BO23_6168_fasciclin_OH_added"
+                     /locus_tag="KU29_BO23_6168_fasciclin"
      Terminator      1674..2139
                      /locus_tag="tADH2"
      Promoter        2140..2639
                      /locus_tag="pADH2_bayanus"
      CDS             2640..4391
-                     /locus_tag="KU29_BO23_6171_glycoside_hydro_OH_added"
+                     /locus_tag="KU29_BO23_6171_glycoside_hydrolase"
      Terminator      4392..4773
                      /locus_tag="tPGI1"
      Resistor        4774..5878
@@ -562,13 +562,13 @@ FEATURES             Location/Qualifiers
      Promoter        5879..6378
                      /locus_tag="pPCK1"
      CDS             6379..8706
-                     /locus_tag="KU29_BO23_6169_hyp_OH_added"
+                     /locus_tag="KU29_BO23_6169_hyp"
      Terminator      8707..9106
                      /locus_tag="tENO2"
      Promoter        9107..9606
                      /locus_tag="pMLS1"
      CDS             9607..10728
-                     /locus_tag="KU29_BO23_6172_hyp_OH_added"
+                     /locus_tag="KU29_BO23_6172_hyp"
      Terminator      10729..11228
                      /locus_tag="tTEF1"
      Backbone        11229..15117

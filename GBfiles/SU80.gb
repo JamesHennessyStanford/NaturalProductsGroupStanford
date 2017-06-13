@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..18626
-                     /locus_tag="KMQ46116.1_NRPS_OH_added_1"
+                     /locus_tag="KMQ46116.1_NRPS"
      Terminator      18627..19092
                      /locus_tag="tADH2"
      Backbone        19093..22982
@@ -417,7 +417,7 @@ FEATURES             Location/Qualifiers
      Promoter        967..1466
                      /locus_tag="pADH2_bayanus"
      CDS             1467..1829
-                     /locus_tag="KMQ46122.1_Cytochrome_P45_OH_added"
+                     /locus_tag="KMQ46122.1_Cytochrome_P450"
      Terminator      1830..2211
                      /locus_tag="tPGI1"
      Resistor        2211^2212
@@ -425,19 +425,19 @@ FEATURES             Location/Qualifiers
      Promoter        2212..2711
                      /locus_tag="pPCK1"
      CDS             2712..3797
-                     /locus_tag="KMQ46123.1_Cytochrome_P45_OH_added"
+                     /locus_tag="KMQ46123.1_Cytochrome_P450"
      Terminator      3798..4197
                      /locus_tag="tENO2"
      Promoter        4198..4697
                      /locus_tag="pMLS1"
      CDS             4698..5936
-                     /locus_tag="KMQ46086.1_RTA-like_prote_OH_added"
+                     /locus_tag="KMQ46086.1_RTA-like_protein"
      Terminator      5937..6402
                      /locus_tag="tADH2"
      Promoter        6403..6902
                      /locus_tag="pADH2_paradoxus"
      CDS             6903..7925
-                     /locus_tag="KMQ46120.1_HotDog_domain_OH_added"
+                     /locus_tag="KMQ46120.1_HotDog_domain"
      Terminator      7926..8425
                      /locus_tag="tTEF1"
      Backbone        8426..14027

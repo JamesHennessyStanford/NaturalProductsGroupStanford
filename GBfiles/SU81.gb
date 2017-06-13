@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..19196
-                     /locus_tag="KDB38475.1_NRPS_OH_added_1"
+                     /locus_tag="KDB38475.1_NRPS"
      Terminator      19197..19662
                      /locus_tag="tADH2"
      Backbone        19663..23552

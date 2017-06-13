@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8123
-                     /locus_tag="KID59235.1_Beta-ketoacyl__OH_added_1"
+                     /locus_tag="KID59235.1_Beta-ketoacyl_synthase_pks"
      Terminator      8124..8623
                      /locus_tag="tTEF1"
      Backbone        8624..12513
@@ -238,13 +238,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1901
-                     /locus_tag="KID59239.1_8-amino-7-oxon_OH_added"
+                     /locus_tag="KID59239.1_8-amino-7-oxononanoate_synthase"
      Terminator      1902..2367
                      /locus_tag="tADH2"
      Promoter        2368..2867
                      /locus_tag="pADH2_bayanus"
      CDS             2868..3845
-                     /locus_tag="KID59237.1_PhyH_OH_added"
+                     /locus_tag="KID59237.1_PhyH"
      Terminator      3846..4227
                      /locus_tag="tPGI1"
      Resistor        4227^4228
@@ -252,25 +252,28 @@ FEATURES             Location/Qualifiers
      Promoter        4228..4727
                      /locus_tag="pPCK1"
      CDS             4728..5501
-                     /locus_tag="KID59238.1_short-chain_de_OH_added"
+                     /locus_tag="KID59238.1_short-chain_dehydrogenase/reductase_
+                     SDR"
      Terminator      5502..5901
                      /locus_tag="tENO2"
      Promoter        5902..6401
                      /locus_tag="pMLS1"
      CDS             6402..7568
-                     /locus_tag="KID59233.1_alkaline_serin_OH_added"
+                     /locus_tag="KID59233.1_alkaline_serine_protease_subtilase_f
+                     amily"
      Terminator      7569..7968
                      /locus_tag="tTDH2"
      Promoter        7969..8468
                      /locus_tag="pADH2_paradoxus"
      CDS             8469..8846
-                     /locus_tag="KID59234.1_LysM_OH_added"
+                     /locus_tag="KID59234.1_LysM"
      Terminator      8847..9039
                      /locus_tag="tADH1"
      Promoter        9040..9535
                      /locus_tag="pADH2_kudriavzevii"
      CDS             9536..11218
-                     /locus_tag="KID59236.1_Drug_resistanc_OH_added"
+                     /locus_tag="KID59236.1_Drug_resistance_transporter_EmrB/Qac
+                     A"
      Terminator      11219..11718
                      /locus_tag="tTEF1"
      Backbone        11719..17320

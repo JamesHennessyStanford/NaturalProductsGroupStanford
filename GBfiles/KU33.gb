@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8108
-                     /locus_tag="KU33_KJK75350.1_PKS_OH_added_1"
+                     /locus_tag="KU33_KJK75350.1_PKS"
      Terminator      8109..8608
                      /locus_tag="tTEF1"
      Backbone        8609..14210
@@ -266,13 +266,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1667
-                     /locus_tag="KU33_KJK75348.1_alkaline__OH_added"
+                     /locus_tag="KU33_KJK75348.1_alkaline_serine_hydrolase"
      Terminator      1668..2133
                      /locus_tag="tADH2"
      Promoter        2134..2633
                      /locus_tag="pADH2_bayanus"
      CDS             2634..3611
-                     /locus_tag="KU33_KJK75352.1_phytanoyl_OH_added"
+                     /locus_tag="KU33_KJK75352.1_phytanoyl_CoA_dioxygenase"
      Terminator      3612..3993
                      /locus_tag="tPGI1"
      Resistor        3994..5148
@@ -280,25 +280,25 @@ FEATURES             Location/Qualifiers
      Promoter        5149..5648
                      /locus_tag="pPCK1"
      CDS             5649..6779
-                     /locus_tag="KU33_KJK75353.1_SDR_OH_added"
+                     /locus_tag="KU33_KJK75353.1_SDR"
      Terminator      6780..7179
                      /locus_tag="tENO2"
      Promoter        7180..7679
                      /locus_tag="pMLS1"
      CDS             7680..9080
-                     /locus_tag="KU33_KJK75354.1_amino-7_o_OH_added"
+                     /locus_tag="KU33_KJK75354.1_amino-7_oxonolate_synthase"
      Terminator      9081..9480
                      /locus_tag="tTDH2"
      Promoter        9481..9980
                      /locus_tag="pADH2_paradoxus"
      CDS             9981..10358
-                     /locus_tag="KU33_KJK75349.1_LysM_cont_OH_added"
+                     /locus_tag="KU33_KJK75349.1_LysM_containing_protein"
      Terminator      10359..10551
                      /locus_tag="tADH1"
      Promoter        10552..11047
                      /locus_tag="pADH2_kudriavzevii"
      CDS             11048..12730
-                     /locus_tag="KU33_KJK75351.1_drug_resi_OH_added"
+                     /locus_tag="KU33_KJK75351.1_drug_resistance_transporter"
      Terminator      12731..13230
                      /locus_tag="tTEF1"
      Backbone        13231..17120

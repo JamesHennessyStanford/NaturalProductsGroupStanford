@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8765
-                     /locus_tag="KIW68007.1_Beta-ketoacyl__OH_added_1"
+                     /locus_tag="KIW68007.1_Beta-ketoacyl_synthase_pks"
      Terminator      8766..9265
                      /locus_tag="tTEF1"
      Backbone        9266..13154
@@ -249,13 +249,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2186
-                     /locus_tag="KIW68005.1_CzcO_Pyr_redox_OH_added"
+                     /locus_tag="KIW68005.1_CzcO_Pyr_redox"
      Terminator      2187..2652
                      /locus_tag="tADH2"
      Promoter        2653..3152
                      /locus_tag="pADH2_bayanus"
      CDS             3153..4874
-                     /locus_tag="KIW68010.1_AMP-dependent__OH_added"
+                     /locus_tag="KIW68010.1_AMP-dependent_synthetase_and_ligase"
      Terminator      4875..5256
                      /locus_tag="tPGI1"
      Resistor        5256^5257
@@ -263,25 +263,26 @@ FEATURES             Location/Qualifiers
      Promoter        5257..5756
                      /locus_tag="pPCK1"
      CDS             5757..6389
-                     /locus_tag="KIW68004.1_P_loop_NTPase_OH_added"
+                     /locus_tag="KIW68004.1_P_loop_NTPase"
      Terminator      6390..6789
                      /locus_tag="tENO2"
      Promoter        6790..7289
                      /locus_tag="pMLS1"
      CDS             7290..8336
-                     /locus_tag="KIW68006.1_F_box_like_OH_added"
+                     /locus_tag="KIW68006.1_F_box_like"
      Terminator      8337..8736
                      /locus_tag="tTDH2"
      Promoter        8737..9236
                      /locus_tag="pADH2_paradoxus"
      CDS             9237..10922
-                     /locus_tag="KIW68008.1_Drug_resistanc_OH_added"
+                     /locus_tag="KIW68008.1_Drug_resistance_transporter_EmrB/Qac
+                     A"
      Terminator      10923..11115
                      /locus_tag="tADH1"
      Promoter        11116..11611
                      /locus_tag="pADH2_kudriavzevii"
      CDS             11612..11923
-                     /locus_tag="KIW68009.1_endonuclease_OH_added"
+                     /locus_tag="KIW68009.1_endonuclease"
      Terminator      11924..12423
                      /locus_tag="tTEF1"
      Backbone        12424..18025

@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..10019
-                     /locus_tag="KGQ11754.1_Enniatin_synth_OH_added_1"
+                     /locus_tag="KGQ11754.1_Enniatin_synthase"
      Terminator      10020..10485
                      /locus_tag="tADH2"
      Backbone        10486..14375
@@ -269,13 +269,15 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2135
-                     /locus_tag="KGQ11755.1_putative_lacta_OH_added"
+                     /locus_tag="KGQ11755.1_putative_lactate_2-monooxygenase_PB1
+                     A11.03"
      Terminator      2136..2601
                      /locus_tag="tADH2"
      Promoter        2602..3101
                      /locus_tag="pADH2_bayanus"
      CDS             3102..5096
-                     /locus_tag="KGQ11751.1_Methylmalonate_OH_added"
+                     /locus_tag="KGQ11751.1_Methylmalonate-semialdehyde_dehydrog
+                     enase"
      Terminator      5097..5478
                      /locus_tag="tPGI1"
      Resistor        5479..6583
@@ -283,25 +285,26 @@ FEATURES             Location/Qualifiers
      Promoter        6584..7083
                      /locus_tag="pPCK1"
      CDS             7084..8955
-                     /locus_tag="KGQ11757.1_Peptidyl-proly_OH_added"
+                     /locus_tag="KGQ11757.1_Peptidyl-prolyl_cis-trans_isomerase_
+                     cyp15"
      Terminator      8956..9355
                      /locus_tag="tENO2"
      Promoter        9356..9855
                      /locus_tag="pMLS1"
      CDS             9856..11529
-                     /locus_tag="KGQ11752.1_Calnexin_OH_added"
+                     /locus_tag="KGQ11752.1_Calnexin"
      Terminator      11530..11995
                      /locus_tag="tADH2"
      Promoter        11996..12495
                      /locus_tag="pADH2_paradoxus"
      CDS             12496..13122
-                     /locus_tag="KGQ11753.1_hypothetical_p_OH_added"
+                     /locus_tag="KGQ11753.1_hypothetical_protein"
      Terminator      13123..13315
                      /locus_tag="tADH1"
      Promoter        13316..13811
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13812..14498
-                     /locus_tag="KGQ11756.1_membrane_prote_OH_added"
+                     /locus_tag="KGQ11756.1_membrane_protein"
      Terminator      14499..14998
                      /locus_tag="tTEF1"
      Backbone        14999..18887

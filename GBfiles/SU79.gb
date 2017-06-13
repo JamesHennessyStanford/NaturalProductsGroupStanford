@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7649
-                     /locus_tag="EFR00806.1_pks_OH_added_1"
+                     /locus_tag="EFR00806.1_pks"
      Terminator      7650..8149
                      /locus_tag="tTEF1"
      Backbone        8150..13751
@@ -259,7 +259,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7649
-                     /locus_tag="EFR00806.1_pks_OH_added_2_gblock1"
+                     /locus_tag="EFR00806.1_pks"
      Terminator      7650..8149
                      /locus_tag="tTEF1"
      Backbone        8150..12039
@@ -479,13 +479,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1337
-                     /locus_tag="EFR00805.1_esterase_lipas_OH_added"
+                     /locus_tag="EFR00805.1_esterase_lipase"
      Terminator      1338..1803
                      /locus_tag="tADH2"
      Promoter        1804..2303
                      /locus_tag="pADH2_bayanus"
      CDS             2304..2840
-                     /locus_tag="EFR00809.1_sdr_OH_added"
+                     /locus_tag="EFR00809.1_sdr"
      Terminator      2841..3222
                      /locus_tag="tPGI1"
      Resistor        3222^3223
@@ -493,13 +493,13 @@ FEATURES             Location/Qualifiers
      Promoter        3223..3722
                      /locus_tag="pPCK1"
      CDS             3723..5303
-                     /locus_tag="EFR00807.1_MFS_OH_added"
+                     /locus_tag="EFR00807.1_MFS"
      Terminator      5304..5703
                      /locus_tag="tENO2"
      Promoter        5704..6203
                      /locus_tag="pMLS1"
      CDS             6204..8237
-                     /locus_tag="EFR00808.1_fungal_TF_MHR_OH_added"
+                     /locus_tag="EFR00808.1_fungal_TF_MHR"
      Terminator      8238..8737
                      /locus_tag="tTEF1"
      Backbone        8738..14339

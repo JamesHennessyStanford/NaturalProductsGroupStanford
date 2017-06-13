@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..9119
-                     /locus_tag="KU32_KEZ41293.1_PKS_OH_added_1"
+                     /locus_tag="KU32_KEZ41293.1_PKS"
      Terminator      9120..9619
                      /locus_tag="tTEF1"
      Backbone        9620..15221
@@ -283,13 +283,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1415
-                     /locus_tag="KU32_KEZ41289.1_AB_hydrol_OH_added"
+                     /locus_tag="KU32_KEZ41289.1_AB_hydrolase"
      Terminator      1416..1881
                      /locus_tag="tADH2"
      Promoter        1882..2381
                      /locus_tag="pADH2_bayanus"
      CDS             2382..3710
-                     /locus_tag="KU32_KEZ41295.1_NADB_mono_OH_added"
+                     /locus_tag="KU32_KEZ41295.1_NADB_monoxygenase"
      Terminator      3711..4092
                      /locus_tag="tPGI1"
      Resistor        4093..5247
@@ -297,13 +297,13 @@ FEATURES             Location/Qualifiers
      Promoter        5248..5747
                      /locus_tag="pPCK1"
      CDS             5748..9884
-                     /locus_tag="KU32_KEZ41287.1_nucleotid_OH_added_1"
+                     /locus_tag="KU32_KEZ41287.1_nucleotidyltransferase"
      Terminator      9885..10284
                      /locus_tag="tENO2"
      Promoter        10285..10784
                      /locus_tag="pMLS1"
      CDS             10785..12032
-                     /locus_tag="KU32_KEZ41288.1_OMT_OH_added"
+                     /locus_tag="KU32_KEZ41288.1_OMT"
      Terminator      12033..12532
                      /locus_tag="tTEF1"
      Backbone        12533..16422
@@ -596,13 +596,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1580
-                     /locus_tag="KU32_KEZ41292.1_crotonyl__OH_added"
+                     /locus_tag="KU32_KEZ41292.1_crotonyl_CoA_reductase"
      Terminator      1581..2046
                      /locus_tag="tADH2"
      Promoter        2047..2546
                      /locus_tag="pADH2_bayanus"
      CDS             2547..3425
-                     /locus_tag="KU32_KEZ41291.1_hyp_OH_added"
+                     /locus_tag="KU32_KEZ41291.1_hyp"
      Terminator      3426..3807
                      /locus_tag="tPGI1"
      Resistor        3808..4912
@@ -610,13 +610,13 @@ FEATURES             Location/Qualifiers
      Promoter        4913..5412
                      /locus_tag="pPCK1"
      CDS             5413..6372
-                     /locus_tag="KU32_KEZ41290.1_mito_phos_OH_added"
+                     /locus_tag="KU32_KEZ41290.1_mito_phos_carrier"
      Terminator      6373..6772
                      /locus_tag="tENO2"
      Promoter        6773..7272
                      /locus_tag="pMLS1"
      CDS             7273..8961
-                     /locus_tag="KU32_KEZ41294.1_Drug_resi_OH_added"
+                     /locus_tag="KU32_KEZ41294.1_Drug_resistance_transporter"
      Terminator      8962..9461
                      /locus_tag="tTEF1"
      Backbone        9462..13350

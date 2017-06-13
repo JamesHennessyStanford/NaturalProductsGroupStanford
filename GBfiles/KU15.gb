@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1292
-                     /locus_tag="KU15_DS54_10337_Cyclase_OH_added"
+                     /locus_tag="KU15_DS54_10337_Cyclase"
      Terminator      1293..1758
                      /locus_tag="tADH2"
      Promoter        1759..2258
                      /locus_tag="pADH2_bayanus"
      CDS             2259..3836
-                     /locus_tag="KU15_DS54_10336_P450_OH_added"
+                     /locus_tag="KU15_DS54_10336_P450"
      Terminator      3837..4218
                      /locus_tag="tPGI1"
      Resistor        4219..5373
@@ -24,19 +24,19 @@ FEATURES             Location/Qualifiers
      Promoter        5374..5873
                      /locus_tag="pPCK1"
      CDS             5874..7505
-                     /locus_tag="KU15_DS54_10340_P450_OH_added"
+                     /locus_tag="KU15_DS54_10340_P450"
      Terminator      7506..7905
                      /locus_tag="tENO2"
      Promoter        7906..8405
                      /locus_tag="pMLS1"
      CDS             8406..9797
-                     /locus_tag="KU15_DS54_10341_P450_OH_added"
+                     /locus_tag="KU15_DS54_10341_P450"
      Terminator      9798..10197
                      /locus_tag="tTDH2"
      Promoter        10198..10697
                      /locus_tag="pADH2_paradoxus"
      CDS             10698..11825
-                     /locus_tag="KU15_DS54_10338_polyprenyl_syn_OH_added"
+                     /locus_tag="KU15_DS54_10338_polyprenyl_synthetase"
      Terminator      11826..12325
                      /locus_tag="tTEF1"
      Backbone        12326..16215
@@ -326,13 +326,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2318
-                     /locus_tag="KU15_DS54_10333_GMC_oxido_OH_added"
+                     /locus_tag="KU15_DS54_10333_GMC_oxido"
      Terminator      2319..2784
                      /locus_tag="tADH2"
      Promoter        2785..3284
                      /locus_tag="pADH2_bayanus"
      CDS             3285..5129
-                     /locus_tag="KU15_DS54_10334_GMC_oxido_OH_added"
+                     /locus_tag="KU15_DS54_10334_GMC_oxido"
      Terminator      5130..5511
                      /locus_tag="tPGI1"
      Resistor        5512..6616
@@ -340,13 +340,13 @@ FEATURES             Location/Qualifiers
      Promoter        6617..7116
                      /locus_tag="pPCK1"
      CDS             7117..7434
-                     /locus_tag="KU15_DS54_10339_Hyp_OH_added"
+                     /locus_tag="KU15_DS54_10339_Hyp"
      Terminator      7435..7834
                      /locus_tag="tENO2"
      Promoter        7835..8334
                      /locus_tag="pMLS1"
      CDS             8335..9321
-                     /locus_tag="KU15_DS54_10335_Hyp_transmembr_OH_added"
+                     /locus_tag="KU15_DS54_10335_Hyp_transmembrane"
      Terminator      9322..9821
                      /locus_tag="tTEF1"
      Backbone        9822..13710

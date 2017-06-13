@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8333
-                     /locus_tag="EGP84621.1_pks_OH_added_1"
+                     /locus_tag="EGP84621.1_pks"
      Terminator      8334..8833
                      /locus_tag="tTEF1"
      Backbone        8834..12722
@@ -242,7 +242,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8333
-                     /locus_tag="EGP84621.1_pks_OH_added_2_gblock1"
+                     /locus_tag="EGP84621.1_pks"
      Terminator      8334..8833
                      /locus_tag="tTEF1"
      Backbone        8834..14435
@@ -502,13 +502,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1235
-                     /locus_tag="EGP84443.1_esterase_lipas_OH_added"
+                     /locus_tag="EGP84443.1_esterase_lipase"
      Terminator      1236..1701
                      /locus_tag="tADH2"
      Promoter        1702..2201
                      /locus_tag="pADH2_bayanus"
      CDS             2202..3737
-                     /locus_tag="EGP84444.1_ERMB_MFS_OH_added"
+                     /locus_tag="EGP84444.1_ERMB_MFS"
      Terminator      3738..4237
                      /locus_tag="tTEF1"
      Resistor        4238..5392

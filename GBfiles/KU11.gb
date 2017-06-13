@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1505
-                     /locus_tag="KU11_FM3_3034_Cyclase_OH_added"
+                     /locus_tag="KU11_FM3_3034_Cyclase"
      Terminator      1506..1971
                      /locus_tag="tADH2"
      Promoter        1972..2471
                      /locus_tag="pADH2_bayanus"
      CDS             2472..4079
-                     /locus_tag="KU11_FM3_3033_P450_OH_added"
+                     /locus_tag="KU11_FM3_3033_P450"
      Terminator      4080..4461
                      /locus_tag="tPGI1"
      Resistor        4462..5616
@@ -24,13 +24,13 @@ FEATURES             Location/Qualifiers
      Promoter        5617..6116
                      /locus_tag="pPCK1"
      CDS             6117..7697
-                     /locus_tag="KU11_FM3_3032_P450_OH_added"
+                     /locus_tag="KU11_FM3_3032_P450"
      Terminator      7698..8097
                      /locus_tag="tENO2"
      Promoter        8098..8597
                      /locus_tag="pMLS1"
      CDS             8598..10196
-                     /locus_tag="KU11_FM3_3031_FAD_OH_added"
+                     /locus_tag="KU11_FM3_3031_FAD"
      Terminator      10197..10696
                      /locus_tag="tTEF1"
      Backbone        10697..14586
@@ -293,13 +293,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1676
-                     /locus_tag="KU11_FM3_3037_Hydrox_OH_added"
+                     /locus_tag="KU11_FM3_3037_Hydrox"
      Terminator      1677..2142
                      /locus_tag="tADH2"
      Promoter        2143..2642
                      /locus_tag="pADH2_bayanus"
      CDS             2643..6903
-                     /locus_tag="KU11_FM3_3027_AMP_SDR_OH_added_1"
+                     /locus_tag="KU11_FM3_3027_AMP_SDR"
      Terminator      6904..7285
                      /locus_tag="tPGI1"
      Resistor        7286..8390
@@ -307,13 +307,13 @@ FEATURES             Location/Qualifiers
      Promoter        8391..8890
                      /locus_tag="pPCK1"
      CDS             8891..10915
-                     /locus_tag="KU11_FM3_3030_PHOS_OH_added"
+                     /locus_tag="KU11_FM3_3030_PHOS"
      Terminator      10916..11315
                      /locus_tag="tENO2"
      Promoter        11316..11815
                      /locus_tag="pMLS1"
      CDS             11816..12004
-                     /locus_tag="KU11_FM3_3035_Hyp_OH_added"
+                     /locus_tag="KU11_FM3_3035_Hyp"
      Terminator      12005..12504
                      /locus_tag="tTEF1"
      Backbone        12505..16393

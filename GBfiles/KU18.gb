@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1388
-                     /locus_tag="KU18_SH9_7287_Cyclase_OH_added"
+                     /locus_tag="KU18_SH9_7287_Cyclase"
      Terminator      1389..1854
                      /locus_tag="tADH2"
      Promoter        1855..2354
                      /locus_tag="pADH2_bayanus"
      CDS             2355..3728
-                     /locus_tag="KU18_SH9_7288_P450_OH_added"
+                     /locus_tag="KU18_SH9_7288_P450"
      Terminator      3729..4110
                      /locus_tag="tPGI1"
      Resistor        4111..5265
@@ -24,19 +24,19 @@ FEATURES             Location/Qualifiers
      Promoter        5266..5765
                      /locus_tag="pPCK1"
      CDS             5766..7190
-                     /locus_tag="KU18_SH9_7289_P450_OH_added"
+                     /locus_tag="KU18_SH9_7289_P450"
      Terminator      7191..7590
                      /locus_tag="tENO2"
      Promoter        7591..8090
                      /locus_tag="pMLS1"
      CDS             8091..9530
-                     /locus_tag="KU18_SH9_7286_P450_OH_added"
+                     /locus_tag="KU18_SH9_7286_P450"
      Terminator      9531..9930
                      /locus_tag="tTDH2"
      Promoter        9931..10430
                      /locus_tag="pADH2_paradoxus"
      CDS             10431..11150
-                     /locus_tag="KU18_SH9_7285_DH_OH_added"
+                     /locus_tag="KU18_SH9_7285_DH"
      Terminator      11151..11650
                      /locus_tag="tTEF1"
      Backbone        11651..15540

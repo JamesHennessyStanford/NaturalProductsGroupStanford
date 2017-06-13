@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8492
-                     /locus_tag="KU43_KIJ60886.1_PKS_OH_added_1"
+                     /locus_tag="KU43_KIJ60886.1_PKS"
      Terminator      8493..8992
                      /locus_tag="tTEF1"
      Backbone        8993..14594
@@ -273,13 +273,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2036
-                     /locus_tag="KU43_KIJ60837.1_P450_OH_added"
+                     /locus_tag="KU43_KIJ60837.1_P450"
      Terminator      2037..2502
                      /locus_tag="tADH2"
      Promoter        2503..3002
                      /locus_tag="pADH2_bayanus"
      CDS             3003..4523
-                     /locus_tag="KU43_KIJ60841.1_P450_OH_added"
+                     /locus_tag="KU43_KIJ60841.1_P450"
      Terminator      4524..4905
                      /locus_tag="tPGI1"
      Resistor        4906..6060
@@ -287,25 +287,27 @@ FEATURES             Location/Qualifiers
      Promoter        6061..6560
                      /locus_tag="pPCK1"
      CDS             6561..7943
-                     /locus_tag="KU43_KIJ60843.1_P450_OH_added"
+                     /locus_tag="KU43_KIJ60843.1_P450"
      Terminator      7944..8343
                      /locus_tag="tENO2"
      Promoter        8344..8843
                      /locus_tag="pMLS1"
      CDS             8844..10391
-                     /locus_tag="KU43_KIJ60846.1_P450_OH_added"
+                     /locus_tag="KU43_KIJ60846.1_P450"
      Terminator      10392..10791
                      /locus_tag="tTDH2"
      Promoter        10792..11291
                      /locus_tag="pADH2_paradoxus"
      CDS             11292..11972
-                     /locus_tag="KU43_KIJ60839.1_isoprenyl_OH_added"
+                     /locus_tag="KU43_KIJ60839.1_isoprenylcysteine_carboxyl_meth
+                     yltransferase"
      Terminator      11973..12165
                      /locus_tag="tADH1"
      Promoter        12166..12661
                      /locus_tag="pADH2_kudriavzevii"
      CDS             12662..13342
-                     /locus_tag="KU43_KIJ60847.1_isoprenyl_OH_added"
+                     /locus_tag="KU43_KIJ60847.1_isoprenylcysteine_carboxyl_meth
+                     yltransferase"
      Terminator      13343..13842
                      /locus_tag="tTEF1"
      Backbone        13843..17732
@@ -620,13 +622,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..704
-                     /locus_tag="KU43_KIJ60838.1_OH_added"
+                     /locus_tag="KU43_KIJ60838.1"
      Terminator      705..1170
                      /locus_tag="tADH2"
      Promoter        1171..1670
                      /locus_tag="pADH2_bayanus"
      CDS             1671..1922
-                     /locus_tag="KU43_KIJ60845.1_OH_added"
+                     /locus_tag="KU43_KIJ60845.1"
      Terminator      1923..2304
                      /locus_tag="tPGI1"
      Resistor        2305..3409
@@ -634,25 +636,25 @@ FEATURES             Location/Qualifiers
      Promoter        3410..3909
                      /locus_tag="pPCK1"
      CDS             3910..5685
-                     /locus_tag="KU43_KIJ60844.1_OH_added"
+                     /locus_tag="KU43_KIJ60844.1"
      Terminator      5686..6085
                      /locus_tag="tENO2"
      Promoter        6086..6585
                      /locus_tag="pMLS1"
      CDS             6586..7395
-                     /locus_tag="KU43_KIJ60842.1_OH_added"
+                     /locus_tag="KU43_KIJ60842.1"
      Terminator      7396..7795
                      /locus_tag="tTDH2"
      Promoter        7796..8295
                      /locus_tag="pADH2_paradoxus"
      CDS             8296..12531
-                     /locus_tag="KU43_KIJ60848.1_ABC_trans_OH_added_1"
+                     /locus_tag="KU43_KIJ60848.1_ABC_transporter"
      Terminator      12532..12724
                      /locus_tag="tADH1"
      Promoter        12725..13220
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13221..17432
-                     /locus_tag="KU43_KIJ60840.1_ABC_trans_OH_added_1"
+                     /locus_tag="KU43_KIJ60840.1_ABC_transporter"
      Terminator      17433..17932
                      /locus_tag="tTEF1"
      Backbone        17933..21821

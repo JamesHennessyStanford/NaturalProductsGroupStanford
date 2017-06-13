@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..14420
-                     /locus_tag="KJX99360.1_NRPS_OH_added_1"
+                     /locus_tag="KJX99360.1_NRPS"
      Terminator      14421..14886
                      /locus_tag="tADH2"
      Backbone        14887..18776
@@ -342,13 +342,15 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2045
-                     /locus_tag="KJX99362.1_L-ornithine_N5_OH_added"
+                     /locus_tag="KJX99362.1_L-ornithine_N5-oxygenase_sida_like_p
+                     rotein"
      Terminator      2046..2511
                      /locus_tag="tADH2"
      Promoter        2512..3011
                      /locus_tag="pADH2_bayanus"
      CDS             3012..4664
-                     /locus_tag="KJX99358.1_n-acetylglucos_OH_added"
+                     /locus_tag="KJX99358.1_n-acetylglucosamine-phosphate_mutase
+                     _like_protein"
      Terminator      4665..5046
                      /locus_tag="tPGI1"
      Resistor        5046^5047
@@ -356,7 +358,8 @@ FEATURES             Location/Qualifiers
      Promoter        5047..5546
                      /locus_tag="pPCK1"
      CDS             5547..9476
-                     /locus_tag="KJX99361.1_putative_abc_m_OH_added_1"
+                     /locus_tag="KJX99361.1_putative_abc_multidrug_transporter_m
+                     dr1_protein"
      Terminator      9477..9976
                      /locus_tag="tTEF1"
      Backbone        9977..15578

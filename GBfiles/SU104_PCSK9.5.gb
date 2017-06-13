@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..8204
-                     /locus_tag="EGP86977.1_PKS_OH_added_1"
+                     /locus_tag="EGP86977.1_PKS"
      Terminator      8205..8704
                      /locus_tag="tTEF1"
      Backbone        8705..12593
@@ -239,13 +239,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1121
-                     /locus_tag="EGP86305.1_AB_hydrolase_OH_added"
+                     /locus_tag="EGP86305.1_AB_hydrolase"
      Terminator      1122..1587
                      /locus_tag="tADH2"
      Promoter        1588..2087
                      /locus_tag="pADH2_bayanus"
      CDS             2088..3344
-                     /locus_tag="EGP86304.1_UbiH_hydoxylas_OH_added"
+                     /locus_tag="EGP86304.1_UbiH_hydoxylase"
      Terminator      3345..3726
                      /locus_tag="tPGI1"
      Resistor        3726^3727
@@ -253,31 +253,31 @@ FEATURES             Location/Qualifiers
      Promoter        3727..4226
                      /locus_tag="pPCK1"
      CDS             4227..5804
-                     /locus_tag="EGP86306.1_RPE65_b_carote_OH_added"
+                     /locus_tag="EGP86306.1_RPE65_b_carotene_dioxygenase"
      Terminator      5805..6204
                      /locus_tag="tENO2"
      Promoter        6205..6704
                      /locus_tag="pMLS1"
      CDS             6705..8345
-                     /locus_tag="EGP86307.1_CzcO_BV_monoxy_OH_added"
+                     /locus_tag="EGP86307.1_CzcO_BV_monoxygenase"
      Terminator      8346..8745
                      /locus_tag="tTDH2"
      Promoter        8746..9245
                      /locus_tag="pADH2_paradoxus"
      CDS             9246..10178
-                     /locus_tag="EGP86973.1_RTA1_like_OH_added"
+                     /locus_tag="EGP86973.1_RTA1_like"
      Terminator      10179..10371
                      /locus_tag="tADH1"
      Promoter        10372..10867
                      /locus_tag="pADH2_kudriavzevii"
      CDS             10868..12247
-                     /locus_tag="EGP86978.1_glutaminase_OH_added"
+                     /locus_tag="EGP86978.1_glutaminase"
      Terminator      12248..12522
                      /locus_tag="tCYC1"
      Promoter        12523..13022
                      /locus_tag="plCL1"
      CDS             13023..13835
-                     /locus_tag="EGP86979.1_PCSK9_homolog_OH_added"
+                     /locus_tag="EGP86979.1_PCSK9_homolog"
      Terminator      13836..14335
                      /locus_tag="tTEF1"
      Backbone        14336..19937
@@ -629,13 +629,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1520
-                     /locus_tag="EGP86980.1_20G_FeII_oxy_OH_added"
+                     /locus_tag="EGP86980.1_20G_FeII_oxy"
      Terminator      1521..1986
                      /locus_tag="tADH2"
      Promoter        1987..2486
                      /locus_tag="pADH2_bayanus"
      CDS             2487..3497
-                     /locus_tag="EGP86303.1_20G_FeII_oxy_OH_added"
+                     /locus_tag="EGP86303.1_20G_FeII_oxy"
      Terminator      3498..3879
                      /locus_tag="tPGI1"
      Resistor        3880..5034
@@ -643,25 +643,25 @@ FEATURES             Location/Qualifiers
      Promoter        5035..5534
                      /locus_tag="pPCK1"
      CDS             5535..6101
-                     /locus_tag="EGP86981.1_hyp_OH_added"
+                     /locus_tag="EGP86981.1_hyp"
      Terminator      6102..6501
                      /locus_tag="tENO2"
      Promoter        6502..7001
                      /locus_tag="pMLS1"
      CDS             7002..7940
-                     /locus_tag="EGP86976.1_hyp_OH_added"
+                     /locus_tag="EGP86976.1_hyp"
      Terminator      7941..8340
                      /locus_tag="tTDH2"
      Promoter        8341..8840
                      /locus_tag="pADH2_paradoxus"
      CDS             8841..10013
-                     /locus_tag="EGP86975.1_hyp_OH_added"
+                     /locus_tag="EGP86975.1_hyp"
      Terminator      10014..10206
                      /locus_tag="tADH1"
      Promoter        10207..10702
                      /locus_tag="pADH2_kudriavzevii"
      CDS             10703..11044
-                     /locus_tag="EGP86974.1_hyp_OH_added"
+                     /locus_tag="EGP86974.1_hyp"
      Terminator      11045..11544
                      /locus_tag="tTEF1"
      Backbone        11545..15434

@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7271
-                     /locus_tag="KJX93290.1_pks_OH_added_1"
+                     /locus_tag="KJX93290.1_pks"
      Terminator      7272..7771
                      /locus_tag="tTEF1"
      Backbone        7772..11660
@@ -224,13 +224,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1472
-                     /locus_tag="KJX93287.1_esterase_lipas_OH_added"
+                     /locus_tag="KJX93287.1_esterase_lipase"
      Terminator      1473..1938
                      /locus_tag="tADH2"
      Promoter        1939..2438
                      /locus_tag="pADH2_bayanus"
      CDS             2439..3134
-                     /locus_tag="KJX93288.1_esterase_lipas_OH_added"
+                     /locus_tag="KJX93288.1_esterase_lipase"
      Terminator      3135..3516
                      /locus_tag="tPGI1"
      Resistor        3516^3517
@@ -238,19 +238,20 @@ FEATURES             Location/Qualifiers
      Promoter        3517..4016
                      /locus_tag="pPCK1"
      CDS             4017..5594
-                     /locus_tag="KJX93286.1_RPE65_caroteno_OH_added"
+                     /locus_tag="KJX93286.1_RPE65_carotenoid_cleavage_dioxygenas
+                     e"
      Terminator      5595..5994
                      /locus_tag="tENO2"
      Promoter        5995..6494
                      /locus_tag="pMLS1"
      CDS             6495..8135
-                     /locus_tag="KJX93293.1_CzcO_FAD_monox_OH_added"
+                     /locus_tag="KJX93293.1_CzcO_FAD_monoxygenase"
      Terminator      8136..8601
                      /locus_tag="tADH2"
      Promoter        8602..9101
                      /locus_tag="pADH2_paradoxus"
      CDS             9102..10610
-                     /locus_tag="KJX93296.1_condensation_OH_added"
+                     /locus_tag="KJX93296.1_condensation"
      Terminator      10611..11110
                      /locus_tag="tTEF1"
      Backbone        11111..16712
@@ -548,13 +549,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1202
-                     /locus_tag="KJX93291.1_alkaline_serin_OH_added"
+                     /locus_tag="KJX93291.1_alkaline_serine_protease"
      Terminator      1203..1668
                      /locus_tag="tADH2"
      Promoter        1669..2168
                      /locus_tag="pADH2_bayanus"
      CDS             2169..3548
-                     /locus_tag="KJX93295.1_glutaminase_OH_added"
+                     /locus_tag="KJX93295.1_glutaminase"
      Terminator      3549..3930
                      /locus_tag="tPGI1"
      Resistor        3931..5085
@@ -562,13 +563,13 @@ FEATURES             Location/Qualifiers
      Promoter        5086..5585
                      /locus_tag="pPCK1"
      CDS             5586..6521
-                     /locus_tag="KJX93285.1_RTA1_OH_added"
+                     /locus_tag="KJX93285.1_RTA1"
      Terminator      6522..6921
                      /locus_tag="tENO2"
      Promoter        6922..7421
                      /locus_tag="pMLS1"
      CDS             7422..7988
-                     /locus_tag="KJX93294.1_hyp_OH_added"
+                     /locus_tag="KJX93294.1_hyp"
      Terminator      7989..8488
                      /locus_tag="tTEF1"
      Backbone        8489..12378

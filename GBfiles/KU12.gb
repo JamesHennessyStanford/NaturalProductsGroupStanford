@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1337
-                     /locus_tag="KU12_HI6_11661_Cyclase_OH_added"
+                     /locus_tag="KU12_HI6_11661_Cyclase"
      Terminator      1338..1803
                      /locus_tag="tADH2"
      Promoter        1804..2303
                      /locus_tag="pADH2_bayanus"
      CDS             2304..3830
-                     /locus_tag="KU12_HI6_11655_P450_OH_added"
+                     /locus_tag="KU12_HI6_11655_P450"
      Terminator      3831..4212
                      /locus_tag="tPGI1"
      Resistor        4213..5367
@@ -24,25 +24,25 @@ FEATURES             Location/Qualifiers
      Promoter        5368..5867
                      /locus_tag="pPCK1"
      CDS             5868..7403
-                     /locus_tag="KU12_HI6_11638_P450_OH_added"
+                     /locus_tag="KU12_HI6_11638_P450"
      Terminator      7404..7803
                      /locus_tag="tENO2"
      Promoter        7804..8303
                      /locus_tag="pMLS1"
      CDS             8304..9614
-                     /locus_tag="KU12_HI6_11667_AMP_ligase_OH_added"
+                     /locus_tag="KU12_HI6_11667_AMP_ligase"
      Terminator      9615..10014
                      /locus_tag="tTDH2"
      Promoter        10015..10514
                      /locus_tag="pADH2_paradoxus"
      CDS             10515..11825
-                     /locus_tag="KU12_HI6_11646_monocarbox_MFS_OH_added"
+                     /locus_tag="KU12_HI6_11646_monocarbox_MFS"
      Terminator      11826..12018
                      /locus_tag="tADH1"
      Promoter        12019..12514
                      /locus_tag="pADH2_kudriavzevii"
      CDS             12515..14038
-                     /locus_tag="KU12_HI6_11632_MFS_OH_added"
+                     /locus_tag="KU12_HI6_11632_MFS"
      Terminator      14039..14538
                      /locus_tag="tTEF1"
      Backbone        14539..18428

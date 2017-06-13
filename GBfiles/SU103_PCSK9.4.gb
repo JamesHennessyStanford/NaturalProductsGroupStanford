@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7280
-                     /locus_tag="KFY74983.1_Beta-ketoacyl__OH_added_1"
+                     /locus_tag="KFY74983.1_Beta-ketoacyl_synthase_pks"
      Terminator      7281..7780
                      /locus_tag="tTEF1"
      Backbone        7781..13382
@@ -253,13 +253,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1991
-                     /locus_tag="KFY74982.1_cytochrome_P45_OH_added"
+                     /locus_tag="KFY74982.1_cytochrome_P450"
      Terminator      1992..2457
                      /locus_tag="tADH2"
      Promoter        2458..2957
                      /locus_tag="pADH2_bayanus"
      CDS             2958..4688
-                     /locus_tag="KFY74981.1_copper_oxidase_OH_added"
+                     /locus_tag="KFY74981.1_copper_oxidase"
      Terminator      4689..5070
                      /locus_tag="tPGI1"
      Resistor        5071..6225
@@ -267,25 +267,26 @@ FEATURES             Location/Qualifiers
      Promoter        6226..6725
                      /locus_tag="pPCK1"
      CDS             6726..7601
-                     /locus_tag="KFY74985.1_short-chain_de_OH_added"
+                     /locus_tag="KFY74985.1_short-chain_dehydrogenase/reductase_
+                     SDR"
      Terminator      7602..8001
                      /locus_tag="tENO2"
      Promoter        8002..8501
                      /locus_tag="pMLS1"
      CDS             8502..10085
-                     /locus_tag="KFY74979.1_WD-40_repeat-c_OH_added"
+                     /locus_tag="KFY74979.1_WD-40_repeat-containing_protein"
      Terminator      10086..10485
                      /locus_tag="tTDH2"
      Promoter        10486..10985
                      /locus_tag="pADH2_paradoxus"
      CDS             10986..15758
-                     /locus_tag="KFY74980.1_major_facilita_OH_added_1"
+                     /locus_tag="KFY74980.1_major_facilitator_transporter"
      Terminator      15759..15951
                      /locus_tag="tADH1"
      Promoter        15952..16447
                      /locus_tag="pADH2_kudriavzevii"
      CDS             16448..17698
-                     /locus_tag="KFY74984.1_Aflo_reg_OH_added"
+                     /locus_tag="KFY74984.1_Aflo_reg"
      Terminator      17699..18198
                      /locus_tag="tTEF1"
      Backbone        18199..22088

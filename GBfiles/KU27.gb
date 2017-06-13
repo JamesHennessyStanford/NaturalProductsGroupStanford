@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7328
-                     /locus_tag="KU27_AN22_1465_PKS_OH_added_1"
+                     /locus_tag="KU27_AN22_1465_PKS"
      Terminator      7329..7828
                      /locus_tag="tTEF1"
      Backbone        7829..13430
@@ -253,13 +253,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1271
-                     /locus_tag="KU27_AN22_1464_esterase_OH_added"
+                     /locus_tag="KU27_AN22_1464_esterase"
      Terminator      1272..1737
                      /locus_tag="tADH2"
      Promoter        1738..2237
                      /locus_tag="pADH2_bayanus"
      CDS             2238..3815
-                     /locus_tag="KU27_AN22_1469_amino_oxidase_OH_added"
+                     /locus_tag="KU27_AN22_1469_amino_oxidase"
      Terminator      3816..4197
                      /locus_tag="tPGI1"
      Resistor        4198..5352
@@ -267,19 +267,19 @@ FEATURES             Location/Qualifiers
      Promoter        5353..5852
                      /locus_tag="pPCK1"
      CDS             5853..8963
-                     /locus_tag="KU27_AN22_1467_A_TD_OH_added"
+                     /locus_tag="KU27_AN22_1467_A_TD"
      Terminator      8964..9363
                      /locus_tag="tENO2"
      Promoter        9364..9863
                      /locus_tag="pMLS1"
      CDS             9864..11906
-                     /locus_tag="KU27_AN22_1466_hyp_OH_added"
+                     /locus_tag="KU27_AN22_1466_hyp"
      Terminator      11907..12306
                      /locus_tag="tTDH2"
      Promoter        12307..12806
                      /locus_tag="pADH2_paradoxus"
      CDS             12807..13133
-                     /locus_tag="KU27_AN22_1468_hyp_OH_added"
+                     /locus_tag="KU27_AN22_1468_hyp"
      Terminator      13134..13633
                      /locus_tag="tTEF1"
      Backbone        13634..17523

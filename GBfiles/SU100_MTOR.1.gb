@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..14045
-                     /locus_tag="EGP89716.1_Non-ribosomal__OH_added_1"
+                     /locus_tag="EGP89716.1_Non-ribosomal_peptide_synthetase"
      Terminator      14046..14511
                      /locus_tag="tADH2"
      Backbone        14512..18401
@@ -336,13 +336,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2045
-                     /locus_tag="EGP90755.1_L-ornithine_5-_OH_added"
+                     /locus_tag="EGP90755.1_L-ornithine_5-monooxygenase"
      Terminator      2046..2511
                      /locus_tag="tADH2"
      Promoter        2512..3011
                      /locus_tag="pADH2_bayanus"
      CDS             3012..3899
-                     /locus_tag="EGP89714.1_cyanide_hydrat_OH_added"
+                     /locus_tag="EGP89714.1_cyanide_hydratase"
      Terminator      3900..4281
                      /locus_tag="tPGI1"
      Resistor        4281^4282
@@ -350,25 +350,25 @@ FEATURES             Location/Qualifiers
      Promoter        4282..4781
                      /locus_tag="pPCK1"
      CDS             4782..8711
-                     /locus_tag="EGP90754.1_ABC_transporte_OH_added_1"
+                     /locus_tag="EGP90754.1_ABC_transporter"
      Terminator      8712..9111
                      /locus_tag="tENO2"
      Promoter        9112..9611
                      /locus_tag="pMLS1"
      CDS             9612..10919
-                     /locus_tag="EGP90756.1_BRIX_ribo_biog_OH_added"
+                     /locus_tag="EGP90756.1_BRIX_ribo_biogenesis"
      Terminator      10920..11385
                      /locus_tag="tADH2"
      Promoter        11386..11885
                      /locus_tag="pADH2_paradoxus"
      CDS             11886..13226
-                     /locus_tag="EGP89715.1_RNA_helicase_OH_added"
+                     /locus_tag="EGP89715.1_RNA_helicase"
      Terminator      13227..13419
                      /locus_tag="tADH1"
      Promoter        13420..13915
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13916..14815
-                     /locus_tag="EGP90757.1_cyclin_L_OH_added"
+                     /locus_tag="EGP90757.1_cyclin_L"
      Terminator      14816..15315
                      /locus_tag="tTEF1"
      Backbone        15316..20917

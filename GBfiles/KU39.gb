@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7139
-                     /locus_tag="KU39_ESK96613.1_PKS_OH_added_1"
+                     /locus_tag="KU39_ESK96613.1_PKS"
      Terminator      7140..7639
                      /locus_tag="tTEF1"
      Backbone        7640..13241
@@ -250,13 +250,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..2576
-                     /locus_tag="KU39_ESK96612.1_phenol_2__OH_added"
+                     /locus_tag="KU39_ESK96612.1_phenol_2_monoxygenase"
      Terminator      2577..3042
                      /locus_tag="tADH2"
      Promoter        3043..3542
                      /locus_tag="pADH2_bayanus"
      CDS             3543..4298
-                     /locus_tag="KU39_ESK96614.1_SDR_OH_added"
+                     /locus_tag="KU39_ESK96614.1_SDR"
      Terminator      4299..4680
                      /locus_tag="tPGI1"
      Resistor        4681..5835
@@ -264,25 +264,25 @@ FEATURES             Location/Qualifiers
      Promoter        5836..6335
                      /locus_tag="pPCK1"
      CDS             6336..7256
-                     /locus_tag="KU39_ESK96609.1_NAD_epime_OH_added"
+                     /locus_tag="KU39_ESK96609.1_NAD_epimerase_DH"
      Terminator      7257..7656
                      /locus_tag="tENO2"
      Promoter        7657..8156
                      /locus_tag="pMLS1"
      CDS             8157..9032
-                     /locus_tag="KU39_ESK96611.1_carbonyl__OH_added"
+                     /locus_tag="KU39_ESK96611.1_carbonyl_reductase"
      Terminator      9033..9432
                      /locus_tag="tTDH2"
      Promoter        9433..9932
                      /locus_tag="pADH2_paradoxus"
      CDS             9933..13193
-                     /locus_tag="KU39_ESK96610.1_hyp_OH_added"
+                     /locus_tag="KU39_ESK96610.1_hyp"
      Terminator      13194..13386
                      /locus_tag="tADH1"
      Promoter        13387..13882
                      /locus_tag="pADH2_kudriavzevii"
      CDS             13883..15331
-                     /locus_tag="KU39_ESK96608.1_monocarbo_OH_added"
+                     /locus_tag="KU39_ESK96608.1_monocarboxylate_permease"
      Terminator      15332..15831
                      /locus_tag="tTEF1"
      Backbone        15832..19721

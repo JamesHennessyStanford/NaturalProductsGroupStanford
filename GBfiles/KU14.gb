@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1358
-                     /locus_tag="KU14_SC3_4774_Cyclase_OH_added"
+                     /locus_tag="KU14_SC3_4774_Cyclase"
      Terminator      1359..1824
                      /locus_tag="tADH2"
      Promoter        1825..2324
                      /locus_tag="pADH2_bayanus"
      CDS             2325..3839
-                     /locus_tag="KU14_SC3_4776_P450_OH_added"
+                     /locus_tag="KU14_SC3_4776_P450"
      Terminator      3840..4221
                      /locus_tag="tPGI1"
      Resistor        4222..5376
@@ -24,19 +24,19 @@ FEATURES             Location/Qualifiers
      Promoter        5377..5876
                      /locus_tag="pPCK1"
      CDS             5877..7025
-                     /locus_tag="KU14_SC3_4773_polyprenyl_synth_OH_added"
+                     /locus_tag="KU14_SC3_4773_polyprenyl_synthetase"
      Terminator      7026..7425
                      /locus_tag="tENO2"
      Promoter        7426..7925
                      /locus_tag="pMLS1"
      CDS             7926..8954
-                     /locus_tag="KU14_SC3_4771_AK_reductase_OH_added"
+                     /locus_tag="KU14_SC3_4771_AK_reductase"
      Terminator      8955..9354
                      /locus_tag="tTDH2"
      Promoter        9355..9854
                      /locus_tag="pADH2_paradoxus"
      CDS             9855..11195
-                     /locus_tag="KU14_SC3_4770_polyprenyl_synth_OH_added"
+                     /locus_tag="KU14_SC3_4770_polyprenyl_synthetase"
      Terminator      11196..11695
                      /locus_tag="tTEF1"
      Backbone        11696..15585
@@ -315,13 +315,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1526
-                     /locus_tag="KU14_SC3_4768_AK_reductase_OH_added"
+                     /locus_tag="KU14_SC3_4768_AK_reductase"
      Terminator      1527..1992
                      /locus_tag="tADH2"
      Promoter        1993..2492
                      /locus_tag="pADH2_bayanus"
      CDS             2493..5462
-                     /locus_tag="KU14_SC3_4772_DNA_repair_OH_added"
+                     /locus_tag="KU14_SC3_4772_DNA_repair"
      Terminator      5463..5844
                      /locus_tag="tPGI1"
      Resistor        5845..6949
@@ -329,13 +329,13 @@ FEATURES             Location/Qualifiers
      Promoter        6950..7449
                      /locus_tag="pPCK1"
      CDS             7450..9123
-                     /locus_tag="KU14_SC3_47775_QacA_drug_trans_OH_added"
+                     /locus_tag="KU14_SC3_47775_QacA_drug_transporter"
      Terminator      9124..9523
                      /locus_tag="tENO2"
      Promoter        9524..10023
                      /locus_tag="pMLS1"
      CDS             10024..10314
-                     /locus_tag="KU14_SC3_4769_Hyp_OH_added"
+                     /locus_tag="KU14_SC3_4769_Hyp"
      Terminator      10315..10814
                      /locus_tag="tTEF1"
      Backbone        10815..14703

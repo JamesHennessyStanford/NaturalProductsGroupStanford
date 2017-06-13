@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7761
-                     /locus_tag="KU44_SL06_4461_PKS_OH_added_1"
+                     /locus_tag="KU44_SL06_4461_PKS"
      Terminator      7762..8261
                      /locus_tag="tTEF1"
      Promoter        8262..8761
                      /locus_tag="pADH2_cerevisiae"
      CDS             8762..10033
-                     /locus_tag="KU44_SL06_4462_aminotransferas_OH_added"
+                     /locus_tag="KU44_SL06_4462_aminotransferase_V"
      Terminator      10034..10499
                      /locus_tag="tADH2"
      Resistor        10499^10500
@@ -24,13 +24,13 @@ FEATURES             Location/Qualifiers
      Promoter        10500..10999
                      /locus_tag="pADH2_bayanus"
      CDS             11000..13942
-                     /locus_tag="KU44_SL06_4460_TPR_repeat_OH_added"
+                     /locus_tag="KU44_SL06_4460_TPR_repeat"
      Terminator      13943..14324
                      /locus_tag="tPGI1"
      Promoter        14325..14824
                      /locus_tag="pPCK1"
      CDS             14825..16345
-                     /locus_tag="KU44_SL06_4463_MFS_transporter_OH_added"
+                     /locus_tag="KU44_SL06_4463_MFS_transporter"
      Terminator      16346..16845
                      /locus_tag="tTEF1"
      Backbone        16846..22447

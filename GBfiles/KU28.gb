@@ -10,7 +10,7 @@ FEATURES             Location/Qualifiers
      Promoter        1..533
                      /locus_tag="pADH2_cerevisiae_flag"
      CDS             534..7271
-                     /locus_tag="KU28_TT08_2724_PKS_OH_added_1"
+                     /locus_tag="KU28_TT08_2724_PKS"
      Terminator      7272..7771
                      /locus_tag="tTEF1"
      Backbone        7772..13373
@@ -252,13 +252,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1265
-                     /locus_tag="KU28_TT08_2723_esterase_OH_added"
+                     /locus_tag="KU28_TT08_2723_esterase"
      Terminator      1266..1731
                      /locus_tag="tADH2"
      Promoter        1732..2231
                      /locus_tag="pADH2_bayanus"
      CDS             2232..3314
-                     /locus_tag="KU28_TT08_2721_AK_reductase_OH_added"
+                     /locus_tag="KU28_TT08_2721_AK_reductase"
      Terminator      3315..3696
                      /locus_tag="tPGI1"
      Resistor        3697..4851
@@ -266,13 +266,13 @@ FEATURES             Location/Qualifiers
      Promoter        4852..5351
                      /locus_tag="pPCK1"
      CDS             5352..8729
-                     /locus_tag="KU28_TT08_2722_ABC_transporter_OH_added"
+                     /locus_tag="KU28_TT08_2722_ABC_transporter"
      Terminator      8730..9129
                      /locus_tag="tENO2"
      Promoter        9130..9629
                      /locus_tag="pMLS1"
      CDS             9630..11423
-                     /locus_tag="KU28_TT08_2725_sugar_transport_OH_added"
+                     /locus_tag="KU28_TT08_2725_sugar_transport"
      Terminator      11424..11923
                      /locus_tag="tTEF1"
      Backbone        11924..15813

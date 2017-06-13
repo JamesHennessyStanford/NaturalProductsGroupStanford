@@ -10,13 +10,13 @@ FEATURES             Location/Qualifiers
      Promoter        1..500
                      /locus_tag="pADH2_cerevisiae"
      CDS             501..1391
-                     /locus_tag="KU_20_SH18_11663_Cyclase_OH_added"
+                     /locus_tag="KU_20_SH18_11663_Cyclase"
      Terminator      1392..1857
                      /locus_tag="tADH2"
      Promoter        1858..2357
                      /locus_tag="pADH2_bayanus"
      CDS             2358..3935
-                     /locus_tag="KU_20_SH18_11664_P450_OH_added"
+                     /locus_tag="KU_20_SH18_11664_P450"
      Terminator      3936..4317
                      /locus_tag="tPGI1"
      Resistor        4318..5472
@@ -24,25 +24,25 @@ FEATURES             Location/Qualifiers
      Promoter        5473..5972
                      /locus_tag="pPCK1"
      CDS             5973..7550
-                     /locus_tag="KU_20_SH18_11665_P450_OH_added"
+                     /locus_tag="KU_20_SH18_11665_P450"
      Terminator      7551..7950
                      /locus_tag="tENO2"
      Promoter        7951..8450
                      /locus_tag="pMLS1"
      CDS             8451..9962
-                     /locus_tag="KU_20_SH18_11662_P450_OH_added"
+                     /locus_tag="KU_20_SH18_11662_P450"
      Terminator      9963..10362
                      /locus_tag="tTDH2"
      Promoter        10363..10862
                      /locus_tag="pADH2_paradoxus"
      CDS             10863..11858
-                     /locus_tag="KU_20_SH18_11660_NMT_OH_added"
+                     /locus_tag="KU_20_SH18_11660_NMT"
      Terminator      11859..12051
                      /locus_tag="tADH1"
      Promoter        12052..12547
                      /locus_tag="pADH2_kudriavzevii"
      CDS             12548..13831
-                     /locus_tag="KU_20_SH18_11661_MFS_OH_added"
+                     /locus_tag="KU_20_SH18_11661_MFS"
      Terminator      13832..14331
                      /locus_tag="tTEF1"
      Backbone        14332..18221
